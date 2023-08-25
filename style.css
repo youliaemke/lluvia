@@ -359,7 +359,6 @@ footer nav a {
 .dropdown { 
   position: relative; 
   display: inline-block;
-  border: 1px solid orange;
 }
 
 .dropdown-title {
@@ -373,11 +372,10 @@ footer nav a {
   left: -1rem;
   padding: 0.5rem;
   display:none; 
-  background-color: white;
+  background-color: var(--medium);
   z-index: 2;
   text-align: left;
   min-width: 10rem;
-  border: 1px solid mediumvioletred;
 }
 
 .dropdown:hover .dropdown-content{ 
