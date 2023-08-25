@@ -300,6 +300,18 @@ header {
   right: 3rem;
 }
 
+.index-4-word-1 { 
+  position: absolute; 
+  top: 17rem;
+  left: 14rem;
+}
+
+.index-4-word-2 { 
+  position: absolute; 
+  bottom: 17rem;
+  right: 14rem;
+}
+
 
 
 nav a {
@@ -513,6 +525,10 @@ footer nav a {
 .mobile-menu.active {
   right: 0;
   left: 20vw;
+}
+
+.logo {
+  cursor: pointer;
 }
 
 .logo-mobile-menu {
