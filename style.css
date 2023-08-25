@@ -108,6 +108,13 @@ html {
 .block { position: block;}
 .inline-block { position: inline-block;}
 
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 /* ------------ Backgrounds & Background Images  ----------------------- */
 
 .bg-dark     { background-color: var(--dark);}
@@ -176,7 +183,7 @@ a.bg-image { display: block;}
 .uppercase    { text-transform: uppercase; }
 
 body {
-  font-family: 'Mulish', serif;  /* Add your font here */ 
+  font-family: 'Prata', serif;  /* Add your font here */ 
   color: var(--dark-text);
 }
 
@@ -185,16 +192,31 @@ h2, h3, h4, h5, h6 {
   margin-bottom: 1.2rem;
 }
 
-h2 { font-size: 2rem; }
+h1 {
+  font-size: 3rem;
+}
+
+h2 { 
+  font-size: 2rem;
+  font-family: 'Prata', serif;
+ }
 h3 { font-size: 1.8rem; }
 h4 { font-size: 1.6rem; }
 h5 { font-size: 1.4rem; }
 h6 { font-size: 1.2rem; }
 
+.quote-bg-image {
+  transform: rotate(90deg);
+  position: absolute;
+  right: -8rem;
+  font-size: 2.25rem;
+  color: white;
+}
+
 p, li {
   line-height: 1.4; 
   margin-bottom: 1rem;
-  font-family: 'Martel', serif; 
+  font-family: 'Prata', serif; 
   font-weight: 200;
   font-size: 1rem;
 }
@@ -214,6 +236,7 @@ p:last-child {
 .text-light     { color: var(--light-text);}
 .subtle         { opacity: 0.8;     }
 .subtitle       { font-size: 0.8rem; }
+.lindsey        { font-family: 'Dawning of a New Day', cursive; }
 
 .tworem         { font-size: 2rem;}
 .two5rem       { font-size: 2.5rem;}
@@ -267,8 +290,17 @@ p a:hover {
 
 /* ------------ Header & Hamburger Menu -------------- */
 header {
-    padding: 1rem 5%;
+    padding: 1.5rem 3rem;
+    background-color: var(--medium);
 }
+
+.keywords-index {
+  position: absolute;
+  bottom: 10rem;
+  right: 3rem;
+}
+
+
 
 nav a {
     padding: 0.25rem 0.5rem;
@@ -674,6 +706,8 @@ hr.short.center {
 
 		.show-xs { display: block; }
 		.hide-xs { display: none;  }
+
+    .xs-padded-0 { padding: 1rem 0.2rem 1rem 0.2rem;}
 
     .subtle-heading-xs {
       font-weight: 300;

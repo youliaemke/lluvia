@@ -12,13 +12,13 @@ social:
   pinterest_url:
   linkedin_url:
 design:
-  dark-text_color: '#3c3c41'
+  dark-text_color: '#2e2e2e'
   medium-text_color: '#5a5a5f'
   light-text_color: '#f7f5f3'
   featured-text_color: '#ff0000'
-  dark_color: '#3c3c41'
-  medium_color: '#ede8e4'
-  light_color: '#f7f5f3'
+  dark_color: '#C4907F'
+  medium_color: '#A3AD9A'
+  light_color: '#F5EBDE'
   v-light_color: '#f9f9f9'
   featured_color: '#6495ed'
   accent_color: '#a74a4a'
