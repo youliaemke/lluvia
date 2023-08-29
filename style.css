@@ -116,6 +116,9 @@ html {
 }
 
 /* ------------ Backgrounds & Background Images  ----------------------- */
+.round-edges {
+  border-radius: 2rem;
+}
 
 .bg-dark     { background-color: var(--dark);}
 .bg-featured { background-color: var(--featured);}
@@ -125,10 +128,18 @@ html {
 
 .bg-image {
     background-color: var(--light); /* Set a fall-back color while images are loading */ 
-    background-image: url('https://source.unsplash.com/8Ogfqvw15Rg/1600x1600');
+    background-image: url('/images/index/index-banner.jpg');
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
+}
+
+.bg-index-banner {
+  background-image: url('/images/index/index-banner.jpg');
+}
+
+.bg-bodywork-banner {
+  background-image: url('/images/bodywork-massage/bodywork-banner.jpg');
 }
 
 .bg-overlay::after {
@@ -139,7 +150,7 @@ html {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0,0,0,0.3);
 }
 
 
@@ -238,6 +249,7 @@ p:last-child {
 .subtitle       { font-size: 0.8rem; }
 .lindsey        { font-family: 'Dawning of a New Day', cursive; }
 
+.one5rem      { font-size: 1.5rem; }
 .tworem         { font-size: 2rem;}
 .two5rem       { font-size: 2.5rem;}
 .threerem       { font-size: 3rem;}
@@ -252,10 +264,11 @@ p:last-child {
 /* ------------ Buttons & Links ------------ */
 a {
     color: inherit;
+    text-decoration: none;
 }
 
 a:hover {
-  color: var(--light); 
+  color: var(--medium); 
 }
 
 p a {
@@ -265,6 +278,19 @@ p a {
 
 p a:hover { 
   color: var(--light); 
+}
+
+div a h2 {
+  text-decoration: none;
+}
+
+div a img {
+  max-width: 98%;
+  transition: 0.5s;
+}
+
+div a img:hover {
+  max-width: 100%;
 }
 
 .button { 
@@ -355,7 +381,7 @@ footer nav a {
 
 
 /* Dropdown styles */
-
+ 
 .dropdown { 
   position: relative; 
   display: inline-block;
@@ -527,6 +553,10 @@ footer nav a {
 
 .logo {
   cursor: pointer;
+}
+
+.logo:hover {
+  color: var(--light);
 }
 
 .logo-mobile-menu {
