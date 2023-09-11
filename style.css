@@ -120,6 +120,8 @@ html {
   border-radius: 2rem;
 }
 
+.window { border-radius: 50rem 50rem 0 0;}
+
 .bg-dark     { background-color: var(--dark);}
 .bg-featured { background-color: var(--featured);}
 .bg-medium   { background-color: var(--medium); }
