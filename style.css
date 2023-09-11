@@ -247,7 +247,7 @@ p:last-child {
 .text-light     { color: var(--light-text);}
 .subtle         { opacity: 0.8;     }
 .subtitle       { font-size: 0.8rem; }
-.lindsey        { font-family: 'Gloria Hallelujah', cursive; }
+.lindsey        { font-family: lindsey-signature, cursive; }
 
 .one5rem      { font-size: 1.5rem; }
 .tworem         { font-size: 2rem;}
@@ -267,8 +267,12 @@ a {
     text-decoration: none;
 }
 
+a.no-hover:hover {
+  color: var(--dark-text);
+}
+
 a:hover {
-  color: var(--medium); 
+  color: var(--light); 
 }
 
 p a {
