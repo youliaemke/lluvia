@@ -194,7 +194,7 @@ a.bg-image { display: block;}
 .uppercase    { text-transform: uppercase; }
 
 body {
-  font-family: 'Prata', serif;  /* Add your font here */ 
+  font-family: 'Lora', serif;  /* Add your font here */ 
   color: var(--dark-text);
 }
 
@@ -209,7 +209,7 @@ h1 {
 
 h2 { 
   font-size: 2rem;
-  font-family: 'Prata', serif;
+  font-family: 'Lora', serif;
  }
 h3 { font-size: 1.8rem; }
 h4 { font-size: 1.6rem; }
@@ -227,7 +227,7 @@ h6 { font-size: 1.2rem; }
 p, li {
   line-height: 1.4; 
   margin-bottom: 1rem;
-  font-family: 'Prata', serif; 
+  font-family: 'Lora', serif; 
   font-weight: 200;
   font-size: 1rem;
 }
