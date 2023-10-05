@@ -144,6 +144,10 @@ html {
   background-image: url('/images/bodywork-massage/bodywork-banner.jpg');
 }
 
+.bg-catering-banner {
+  background-image: url('/images/catering-retreats/catering-banner.jpg');
+}
+
 .bg-overlay::after {
   z-index: 1;
   content: ""; 
@@ -318,6 +322,14 @@ div a img:hover {
 }
 
 .subtle-button:hover {
+  color: var(--featured);
+}
+
+.subtle-button-2 {
+  text-decoration: none;
+}
+
+.subtle-button-2:hover {
   color: var(--featured);
 }
 
