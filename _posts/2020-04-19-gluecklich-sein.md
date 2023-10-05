@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bericht zum Thema: Abdominale Massage
+title: Bericht zum Thema :Abdominale Massage
 description:
 author: Lluvia
 featured: false
@@ -20,7 +20,7 @@ Eine Bauchmassage oder Gebärmutter Massage ist für mich wie eine sanfte und f�
 
 Verschiedene Kulturen der Welt verehren diesen Teil als unser Lebenskraftzentrum. Dies ist der Ort, an dem wir gebären, nicht nur in physischer Form. Es ist der Raum, in dem unsere Visionen und Träume geformt werden. Dies ist der Raum, in dem wir erschaffen.
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdj+P///38ACfsD/QVDRcoAAAAASUVORK5CYII=)
+![](/images/blog/blog-1-inline.jpg)
 
 Ich entdeckte die Magie der Bauchmassage zum ersten Mal, als ich in Guatemala lebte. Eine liebe Schwester nahm an einem Maya-Bauchmassagekurs teil, und ich war ihr Modell, an dem sie übte. Als ihre Hände begannen, sich ihren Weg über meinen Bauch zu bahnen, konnte ich spüren, wie die Anspannung wegschmolz, so wie die Wärme der Sonne langsam durch den Morgennebel sickert. Es war einer dieser seltenen Momente, in denen ich mich wirklich mit meinem Körper verbunden fühlte. Ich wusste sofort, dass ich mehr lernen wollte, um mich tiefer mit meinem Schoßraum zu verbinden und diese alten Techniken mit der Welt zu teilen.
 
