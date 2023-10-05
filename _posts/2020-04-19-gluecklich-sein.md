@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bericht zum Thema :Abdominale Massage
+title: Bericht zum Thema: Abdominale Massage
 description:
 author: Lluvia
 featured: false
