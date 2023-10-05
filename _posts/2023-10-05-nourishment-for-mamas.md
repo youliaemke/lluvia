@@ -20,6 +20,8 @@ Für Mütter zu kochen ist ein Akt der Liebe, eine Möglichkeit, Dankbarkeit und
 
 Die Aromen einer gut zubereiteten Mahlzeit wecken Erinnerungen und beruhigen die Seele. Es ist wie ein Vorgeschmack auf zu Hause, eine Erinnerung daran, dass es, auch wenn sich das Leben dramatisch verändert hat, Konstanten gibt, die bleiben - Liebe, Fürsorge und Nahrung.
 
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdj+P///38ACfsD/QVDRcoAAAAASUVORK5CYII=)
+
 Für Mütter zu kochen ist eine Gelegenheit, die unglaubliche Stärke und Widerstandsfähigkeit zu feiern, die es braucht, um eine Mutter zu sein. Es ist eine Erinnerung daran, dass ihr Wohlbefinden genauso wichtig ist wie das ihrer Kinder. Es ist eine Anerkennung dafür, dass auch sie es verdient, genährt und umsorgt zu werden.
 
 Was diesen Akt des Kochens noch spezieller macht, ist die persönliche Note, die er oft mit sich bringt. Es handelt sich nicht um eine gewöhnliche Mahlzeit, sondern um ein Gericht, das auf ihren Geschmack, ihre Vorlieben und ihre Ernährungsbedürfnisse abgestimmt ist. Es ist ein Trostteller, eine Erinnerung daran, dass jemand sie kennt, sie sieht und sie genug liebt, um etwas zuzubereiten, das wirklich Freude macht.
