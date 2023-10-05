@@ -317,6 +317,10 @@ div a img:hover {
   border-bottom: 1px solid;
 }
 
+.subtle-button:hover {
+  color: var(--featured);
+}
+
 /* suggested additional styles 
 - .button-inverted, .button-subtle, .button-lg  */
 
@@ -675,7 +679,7 @@ button:hover {
 /* Miscelaneous elements  */
 
 hr.short {
-  border: 1px solid var(--dark-text);
+  border: 1px solid white;
   width: 2rem;
   margin: 1rem 0;
 }

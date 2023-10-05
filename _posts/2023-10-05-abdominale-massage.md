@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Bericht zum Thema: Abdominale Massage
-language: deutsch
+title: Abdominale Massage
 description:
 author: Lluvia
 featured: false
