@@ -1,0 +1,48 @@
+---
+layout: default
+title: Blog Archiv
+seo:
+  title: Blog Archiv
+  description: Hier findest du alle bisher veröffentlichten Blogposts von Alfred Schuler.
+  social_image:
+  twitter_card:
+  keywords:
+  hide-from-google: false
+---
+
+<!------------------------ Split blog loop (part 1) ------------------------>
+
+<section class="bg-medium center text-white padded-2">
+    <h1 class="fourrem"> BLOG ARCHIV </h1>
+</section>
+
+<section class="capped-width md-padded-2 archive">
+
+
+
+    <div class="capped-width grid">
+
+        {% for post in site.posts limit: 100 %}
+
+        <a class="col-6_md-12-middle post-item padded-2 sm-padded-1" href="{{ post.url }}" class="post-item-hover">
+            <div class="grid">
+                <div class="col-3-middle">
+                    <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
+    
+                </div>
+                <div class="col-9-middle padded-1">
+            
+                    <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ post.title }} </h4>
+                    <p class="hide-xs"> {{ post.description }} </p>
+            
+                </div>
+            </div>
+        </a>
+
+        {% endfor %}
+
+    </div>
+
+
+
+</section>

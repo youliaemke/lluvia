@@ -1,0 +1,78 @@
+---
+layout: default
+title: Blog Page 
+seo:
+  title: Blogposts
+  description: Alfred Schuler geht nach jahrelanger Arbeit in verschiedensten Führungspositionen in die Selbstständigkeit und arbeitet als Coach. In seinen Blogs reflektiert er gesellschaftliche & philosphische Themen auf seine packende und persönlche Art und Weise.
+  social_image:
+  twitter_card:
+  keywords:
+  hide-from-google: false
+---
+
+<!------------------------ Split blog loop (part 1) ------------------------>
+
+
+<section class="bg-medium">
+    <section class="capped-width grid-spaceAround-middle">
+        <div class="col-7_xs-11 padded">
+            <h1 class="text-white margin-b-1"> Motivationsblog. </h1>
+            <p class="text-white margin-b-1"> Er motiviert. Er philosophiert. Er reflektiert und erzählt. Der Motivationsblog soll dich motivieren, dein Leben in deine eigenen Hände zu nehmen und deine Träume zu verwirklichen. Denn dafür sind wir hier. Alfred erreicht dies mit seiner bodenständigen, weisen Art und Weise und zaubert mir mit seiner humorvollen Art immer wieder ein Lächeln auf das Gesicht. </p>
+            <h2 class="text-white"> - motivierter Leser </h2>
+        </div>
+        <div class="col-5_xs-10 padded">
+            <img data-src="/images/index/alfred-portrait-closeup.jpg" class="round-edges lazy">
+        </div>
+    </section>
+</section>
+
+
+<section class="capped-width md-padded-2 padded-t-1 padded-b-0">
+
+    <div class="capped-width grid-center">
+
+
+        {% for post in site.posts limit:12 %}
+
+            {% include post-loop-item-square.html %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+
+<!------------------------ CTA Banner  ------------------------>
+<!----
+<section class="bg-dark">
+    <section class="bg-dark text-light padded center capped-width"> 
+
+        <div class="capped-width-narrow">
+            <h2> Abonniere den Newsletter meiner Firma </h2>
+            <p> Mit unserer Theta-Welten Schwyz GmbH unterstützen wir Menschen von klein bis gross in jeglichen Lebenslagen auf emotionaler und spiritueller Ebene, immer verbunden mit Mutter Erde. </p>
+            <a href="#" class="button"> Abonnieren </a>
+        </div>
+
+    </section> 
+</section>
+--->
+
+
+<!------------------------ Split blog loop (part 2) ------------------------>
+<!----->
+<section class="capped-width md-padded-2 padded-b-05 padded-t-0">
+
+    <!-- This checks if there are more than 15 blog posts, and if there are shows a link to the full blog archive -->
+
+    {% assign post_count = site.posts | size %}
+    
+    {% if post_count > 15 %}
+        <div class="center padded-2">
+            <a class="button" href="/blog-archiv"> Archiv </a>
+        </div>
+       
+    {% endif %}
+
+</section>
+
