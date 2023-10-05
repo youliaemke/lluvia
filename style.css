@@ -250,7 +250,7 @@ p:last-child {
 .text-light     { color: var(--light-text);}
 .subtle         { opacity: 0.8;     }
 .subtitle       { font-size: 0.8rem; }
-.lindsey        { font-family: 'Grape Nuts', cursive; }  /* 'Gloria Hallelujah' */
+.lindsey        { font-family: 'Neucha', cursive; }  /* 'Gloria Hallelujah' */
 
 .one5rem      { font-size: 1.5rem; }
 .tworem         { font-size: 2rem;}
