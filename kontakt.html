@@ -11,12 +11,29 @@ seo:
   hide-from-google: false
 ---
 
-<section class="padded-2 capped-width grid-spaceAround-middle">
-  <div class="col-12">
-    <h2 class="fourrem lindsey padded-2 margin-t-2"> Kontakt  </h2>
-  </div>
-</section>
 
+<section class="padded capped-width-v-narrow">
+  <div class="center editable">
+      <h2 class="margin-b-2 padded-t-1"> Kontaktformular </h2>
+  </div>
+  <form class="margin-t-2 xs-margin-t-1" action="#"
+  method="POST">
+      <label for="_name"> Name </label>
+      <input type="text" name="_name" id="_name"/>
+ 
+      <label for="_replyto"> Email </label>
+      <input type="email" name="_replyto" id="_replyto"/>
+
+      <label for="phone"> Telefonnummer </label>
+      <input type="tel" id="phone" name="phone" pattern="+[0-9]{2}-[0-9]{2}-[0-9]{3}-[0-9]{4}" > 
+ 
+      <label for="message"> Nachricht </label>
+      <textarea name="message" id="message"></textarea>
+ 
+      <button type="submit" class="button button-color kontakt-formular" id="kontakt-formular"> Abschicken </button>
+  </form>
+
+</section>
 
 
 

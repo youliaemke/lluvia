@@ -657,7 +657,7 @@ input, textarea {
 input:focus,
 textarea:focus {
   outline: none;
-  border: 2px solid var(--light);
+  border: 2px solid var(--dark);
 }
 
 
@@ -676,10 +676,16 @@ button {
     font-weight: 400;
     font-family: 'Jost', sans-serif;
     padding: 0.5rem 1rem;
+    color: var(--medium);
 }
 
 button:hover {
-  border: 1px solid var(--light);
+  border: 1px solid var(--dark);
+  color: var(--dark);
+}
+
+.button.kontakt-formular:hover {
+  color: var(--dark);
 }
 
 /* ------------ Blogging elements  ----------------------- */
