@@ -3,11 +3,11 @@ collections:
   english:
     posts:
       output: true
-      permalink: /posts/english/:year/:slug
+      permalink: /posts/:year/:slug
   deutsch:
     posts:
       output: true
-      permalink: /posts/:year/:slug
+      permalink: /posts/:year/:slug 
   archives: 
     output: true
 
@@ -35,6 +35,6 @@ _options:
     strike: true
     image: true
     
-url: "https://example.com" # the base hostname & protocol for your site
+url: "https://rainandrosemary.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap

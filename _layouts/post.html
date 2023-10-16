@@ -11,7 +11,139 @@
 
     {% include inline-styles.html %}
     
-    {% include site-header.html %}
+    <header class="grid-middle bg-medium text-white">
+
+        {% if page.language == "deutsch" %}
+      
+        <div class="col-3">
+          <div class="margin-l-1">
+            <a href="/"> <h1 class="lindsey logo"> Lluvia </h1> </a>
+          </div>
+        </div> 
+      
+        <nav class="col-9-right right hide-sm padded-05">
+          <a href="/"> Start </a>
+            <a href="/ueber-mich.html"> Über mich </a>
+            <div class="dropdown">
+              <a href="/healing.html" class="dropdown-title"> Healing </a>
+              <div class="dropdown-content">
+                <a href="/bodywork-massage.html"> Bodywork Massage </a>
+                <a href="/kraeuterkunde.html"> Kräuterkunde </a>
+                <a href="/mentoring.html"> Mentoring </a>
+              </div>
+            </div>
+            <a href="/catering-retreats.html"> Catering Retreats </a>
+            <a href="/termin-buchen.html"> Termin buchen </a>
+            <a href="/blog.html"> Blog </a>
+            <a href="/kontakt.html" class="featured"> Kontakt </a>
+          <div class="language"> <span class="earth"> <i class="fa-solid fa-earth-americas"></i> </span>
+            <div class="language-icons">
+              <a href="#"> <img src="/flags/germany.svg" class="flag uk-flag"> </a>
+              <a href="{{page.url | replace:'/deutsch','/english'}}"> <img src="/flags/united-kingdom.svg" class="flag"></a>
+            </div>
+          </div>
+          
+        </nav> 
+      
+        {% endif %}
+        
+        {% if page.language == "english" %}
+      
+        <div class="col-3">
+          <div class="margin-l-1">
+            <a href="/english"> <h1 class="lindsey logo"> Lluvia </h1> </a>
+          </div>
+        </div> 
+      
+          <nav class="col-9-right right hide-sm padded-05">
+      
+            <a href="/english"> Start </a>
+            <a href="/english/ueber-mich.html"> About </a>
+            <div class="dropdown">
+              <a href="/english/healing.html" class="dropdown-title"> Healing </a>
+              <div class="dropdown-content">
+                <a href="/english/bodywork-massage.html"> Bodywork Massage </a>
+                <a href="/english/kraeuterkunde.html"> Herbology </a>
+                <a href="/english/mentoring.html"> Mentoring </a>
+              </div>
+            </div>
+            <a href="/english/catering-retreats.html"> Catering Retreats </a>
+            <a href="/english/termin-buchen.html"> Book now </a>
+            <a href="/english/blog.html"> Blog </a>
+            <a href="/english/kontakt.html" class="featured"> Contact </a>
+            <div class="language"> <span class="earth"> <i class="fa-solid fa-earth-americas"></i> </span>
+              <div class="language-icons">
+                <a href="{{page.url | replace:'/english','/deutsch'}}"> <img src="/flags/germany.svg" class="flag uk-flag"> </a>
+                <a href="#"> <img src="/flags/united-kingdom.svg" class="flag"></a>
+              </div>
+            </div>
+          </nav> 
+      
+          {% endif %}
+      
+          <div class="col-7 right show-sm">
+            <div class="burger-button">
+              <span class="burger-top"></span>
+              <span class="burger-middle"></span>
+              <span class="burger-bottom"></span>
+          </div>
+          </div>
+        </header>
+      
+      {% if page.language == "deutsch" %}
+        
+      <div class="mobile-menu"> 
+        <h1 class="logo-mob-menu left"> Lluvia </h1>
+        <nav class="mobile-menu-links"> 
+          <a href="/"> Start </a>
+          <a href="/ueber-mich"> Über mich </a>
+          <a href="/healing.html"> Healing </a>
+          <div class="dropdown-content-mobile">
+            <a href="/bodywork-massage.html"> Bodywork Massage </a>
+            <a href="/kraeuterkunde.html"> Kräuterkunde </a>
+            <a href="/human-design-reading.html"> Human Design Reading </a>
+          </div>
+          <a href="/catering-retreats.html"> Catering Retreats </a>
+          <a href="/termin-buchen.html"> Termin buchen </a>
+          <a href="/kontakt.html" class="featured"> Kontakt </a>
+          <a href="#"> <img src="/flags/germany.svg" class="flag"> </a>
+          <a href="{{page.url | replace:'/deutsch','/english'}}"> <img src="/flags/united-kingdom.svg" class="flag"></a>
+        </nav>
+        <div class="social-links-mobile-menu">
+          <a href="https://www.instagram.com/pajurama/" id="inline-block" target="_blank"><i class="fa-brands fa-instagram xs-fa-brands"></i></a>
+          <a href="https://www.pinterest.ch/pajurama/_created/" id="inline-block" target="_blank"><i class="fa-brands fa-pinterest xs-fa-brands"></i></a>
+        </div>
+      </div> 
+      
+      {% endif %}
+      
+      {% if page.language == "english" %}
+        
+      <div class="mobile-menu"> 
+        <h1 class="logo-mob-menu left"> Lluvia </h1>
+        <nav class="mobile-menu-links"> 
+          <a href="/english"> Start </a>
+          <a href="/english/ueber-mich.html"> About </a>
+          <a href="/english/healing.html"> Healing </a>
+            <div class="dropdown-content-mobile">
+              <a href="/english/bodywork-massage.html"> Bodywork Massage </a>
+              <a href="/english/kraeuterkunde.html"> Herbology </a>
+              <a href="/english/mentoring.html"> Mentoring </a>
+            </div>
+          <a href="/english/catering-retreats.html"> Catering Retreats </a>
+          <a href="/english/termin-buchen.html"> Book now </a>
+          <a href="/english/blog.html"> Blog </a>
+          <a href="/english/kontakt.html" class="featured"> Contact </a>
+          <a href="{{page.url | replace:'/english','/deutsch'}}"> <img src="/flags/germany.svg" class="flag"> </a>
+          <a href="#"> <img src="/flags/united-kingdom.svg" class="flag"></a>
+        </nav>
+        <div class="social-links-mobile-menu">
+          <a href="https://www.instagram.com/pajurama/" id="inline-block" target="_blank"><i class="fa-brands fa-instagram xs-fa-brands"></i></a>
+          <a href="https://www.pinterest.ch/pajurama/_created/" id="inline-block" target="_blank"><i class="fa-brands fa-pinterest xs-fa-brands"></i></a>
+        </div>
+      </div> 
+      
+      {% endif %}
 
     <section class="center padded padded-b-0">
         <h1> {{ page.title }} </h1>
