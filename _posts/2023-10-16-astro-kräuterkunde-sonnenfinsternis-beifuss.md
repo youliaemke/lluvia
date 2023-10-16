@@ -35,11 +35,9 @@ Gefühle wie:
 * Stimmungsschwankungen
 * Kollektive Ereignisse&nbsp;
 
-
-
 werden wahrscheinlich auftreten. Denken Sie daran, dass die Auswirkungen der Sonnenfinsternis-Energie von Person zu Person unterschiedlich sind, abhängig von ihrem Geburtshoroskop und den spezifischen planetarischen Aspekten. Manche Menschen können die Auswirkungen stärker spüren als andere.&nbsp;
 
-Die Arbeit mit einem Mondkraut wie Beifuß hilft uns, uns mit unserem Mondselbst/Unterbewusstsein zu verbinden. Viele von uns kennen zwar ihr Sonnenzeichen, aber nicht ihr Mondzeichen, das unsere intimsten Wahrheiten über uns selbst darstellt. Wenn Sie Ihren Mond kennen, können Sie die Kraft Ihrer Sonne besser auf Ihr Leben verteilen. Die Arbeit mit Beifuß während der Sonnenfinsternis ist eine Möglichkeit, Ihre Träume zu verstärken, eine primäre Art der Kommunikation zwischen unserem bewussten Selbst und unserem Mond-Selbst. Das Kraut kann auch helfen, übersinnliche Gaben freizusetzen und zu verstärken. Wenn Sie Ihre übersinnlichen Fähigkeiten verleugnet haben, kann die Zeit der Sonnenfinsternis eine Gelegenheit sein, sich wieder mit ihnen zu verbinden, und Beifuß kann helfen, den Weg zu öffnen.
+Die Arbeit mit einem Mondkraut wie Beifuß hilft uns, uns mit unserem Mondselbst/Unterbewusstsein zu verbinden. Viele von uns kennen zwar ihr Sonnenzeichen, aber nicht ihr Mondzeichen, das unsere intimsten Wahrheiten über uns selbst darstellt. [Wenn Sie Ihren Mond kennen](https://www.wortsandcunning.com/lunar-apothecary){: target="_blank" rel="noopener"}, können Sie die Kraft Ihrer Sonne besser auf Ihr Leben verteilen. Die Arbeit mit Beifuß während der Sonnenfinsternis ist eine Möglichkeit, Ihre Träume zu verstärken, eine primäre Art der Kommunikation zwischen unserem bewussten Selbst und unserem Mond-Selbst. Das Kraut kann auch helfen, übersinnliche Gaben freizusetzen und zu verstärken. Wenn Sie Ihre übersinnlichen Fähigkeiten verleugnet haben, kann die Zeit der Sonnenfinsternis eine Gelegenheit sein, sich wieder mit ihnen zu verbinden, und Beifuß kann helfen, den Weg zu öffnen.
 
 Probieren Sie es aus und trinken Sie Beifußtee oder verwenden Sie eine Beifußtinktur. Wenn Sie noch nie eine eigene Tinktur hergestellt haben, ist es jetzt vielleicht an der Zeit, oder Sie besorgen sich eine meiner oder anderer bewährter Medizinmischungen.
 
