@@ -4,6 +4,20 @@ collections:
     permalink: /posts/:year/:slug
   archives: 
     output: true
+
+defaults:
+- scope:
+    path: '_posts/de'
+    type: 'posts'
+  values:
+    permalink: '/posts/:year/:slug'
+    language: de
+- scope:
+    path: '_posts/en'
+    type: 'posts'
+  values:
+    permalink: '/posts/:year/:slug'
+    language: en
     
     
 _options:
