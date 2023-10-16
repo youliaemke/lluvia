@@ -199,6 +199,10 @@ a.bg-image { display: block;}
 .center  { text-align: center; }
 .uppercase    { text-transform: uppercase; }
 
+ul {
+  margin-left: 2rem;
+}
+
 body {
   font-family: 'Lora', serif;  /* Add your font here */ 
   color: var(--dark-text);
@@ -218,7 +222,11 @@ h2 {
   font-family: 'Lora', serif;
   font-weight: 300;
  }
-h3 { font-size: 1.8rem; }
+h3 { 
+  font-size: 1.5rem;
+  font-family: 'Lora', serif;
+  font-weight: 300;
+ }
 h4 { font-size: 1.6rem; }
 h5 { font-size: 1.4rem; }
 h6 { font-size: 1.2rem; }
@@ -237,6 +245,9 @@ p, li {
   font-family: 'Lora', serif; 
   font-weight: 200;
   font-size: 1rem;
+}
+li {
+  margin-bottom: 0.5rem;
 }
 
 h2:last-child, 
