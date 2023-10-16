@@ -4,7 +4,7 @@ title: Nourishment for Mamas
 description:
 author: Lluvia
 featured: false
-featured_image: /images/blog/blog-nourishment-for-mamas.JPG
+featured_image: /images/blog/food-iphone-foto.jpeg
 seo:
   title:
   description:
