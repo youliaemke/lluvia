@@ -35,7 +35,7 @@ Gefühle wie:
 * Stimmungsschwankungen
 * Kollektive Ereignisse&nbsp;
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdj+P///38ACfsD/QVDRcoAAAAASUVORK5CYII=)
+
 
 werden wahrscheinlich auftreten. Denken Sie daran, dass die Auswirkungen der Sonnenfinsternis-Energie von Person zu Person unterschiedlich sind, abhängig von ihrem Geburtshoroskop und den spezifischen planetarischen Aspekten. Manche Menschen können die Auswirkungen stärker spüren als andere.&nbsp;
 
