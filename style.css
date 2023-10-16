@@ -647,6 +647,7 @@ footer nav a {
 
 .logo {
   cursor: pointer;
+  font-size: 2rem;
 }
 
 .logo:hover {
