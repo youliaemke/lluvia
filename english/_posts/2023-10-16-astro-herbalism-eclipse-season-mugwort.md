@@ -2,6 +2,8 @@
 layout: post
 title: 'Astro/Herbalism: Eclipse Season & Mugwort'
 language: english
+categories:
+  - english
 description: >-
   Eclipse season can evoke a range of feelings and experiences, both on a
   personal and collective level. It can feel like pulling the furniture away

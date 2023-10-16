@@ -2,6 +2,8 @@
 layout: post
 title: Abdominale Massage
 language: english
+categories:
+  - english
 description:
 author: Lluvia
 featured: false

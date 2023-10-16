@@ -2,6 +2,8 @@
 layout: post
 title: Nourishment for Mamas
 language: deutsch
+categories:
+  - deutsch
 description:
 author: Lluvia
 featured: false

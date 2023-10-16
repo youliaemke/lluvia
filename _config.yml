@@ -1,10 +1,13 @@
-
-
-    
+ 
 collections:
-  posts:
-    output: true
-    permalink: /posts/:year/:slug
+  english:
+    posts:
+      output: true
+      permalink: /posts/english/:year/:slug
+  deutsch:
+    posts:
+      output: true
+      permalink: /posts/:year/:slug
   archives: 
     output: true
 

@@ -2,6 +2,8 @@
 layout: post
 title: 'Astro/Kräuterkunde: Sonnenfinsternis & Beifuss'
 language: deutsch
+categories:
+  - deutsch
 description: >-
   Die Zeit der Sonnenfinsternis kann eine Reihe von Gefühlen und Erfahrungen
   hervorrufen, sowohl auf persönlicher als auch auf kollektiver Ebene. Es kann
