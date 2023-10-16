@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Abdominale Massage
-language: de
+language: deutsch
 description:
 author: Lluvia
 featured: false

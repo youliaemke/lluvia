@@ -1,58 +1,104 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-<section class="center padded padded-b-0">
-    <h1> {{ page.title }} </h1>
+<head>
 
-    <div class="intro padded-1 center">      
-        <p class="post-info"> by {{ page.author }} | {{ page.date | date_to_string }} </p>
-    </div>
-</section>
-
-<section class="capped-width-narrow blog-content">
-        <div class="padded">
-            {{content}}
-        </div>
-</section>
-
-<section class="bg-medium center text-white padded-2">
-    {% include social-share.html %}
-</section>
-
-<!--- {% include related-posts.html %} --->
-
-<section class="padded padded-b-2 archive">
-
-    <div class="capped-width-narrow padded-05 center margin-b-1">
-        <h2> Weitere Blogposts </h2>
-    </div>
-
-    <div class="capped-width grid">
-
-        {% for post in site.posts limit: 4 %}
-
-        <a class="col-6_md-12-middle subtle-button-2 post-item padded-2 sm-padded-1 hover-light" href="{{ post.url }}">
-            <div class="grid">
-                <div class="col-3-middle">
-                    <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
+    {% include head.html %}
     
-                </div>
-                <div class="col-9-middle padded-1">
-            
-                    <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ post.title }} </h4>
-                    <p class="hide-xs"> {{ post.description }} </p>
-            
-                </div>
-            </div>
-        </a>
+</head>
 
-        {% endfor %}
+<body>
 
-        <div class="col-12-middle center padded-2">
-            <a class="subtle-button hover-light" href="/blog-archiv"> Archiv </a>
+    {% include inline-styles.html %}
+    
+    {% include site-header.html %}
+
+    <section class="center padded padded-b-0">
+        <h1> {{ page.title }} </h1>
+    
+        <div class="intro padded-1 center">      
+            <p class="post-info"> by {{ page.author }} | {{ page.date | date_to_string }} </p>
         </div>
+    </section>
+    
+    <section class="capped-width-narrow blog-content">
+            <div class="padded">
+                {{content}}
+            </div>
+    </section>
+    
+    <section class="bg-medium center text-white padded-2">
+        {% include social-share.html %}
+    </section>
+    
+    <!--- {% include related-posts.html %} --->
+    
+    <section class="padded padded-b-2 archive">
+    
+        <div class="capped-width-narrow padded-05 center margin-b-1">
+            <h2> Weitere Blogposts </h2>
+        </div>
+    
+        <div class="capped-width grid">
+            
+            {% if page.language == 'deutsch' %}
+                {% for post in site.posts limit: 4 %}
+                    {% if post.language == 'deutsch' %}
+                        <a class="col-6_md-12-middle subtle-button-2 post-item padded-2 sm-padded-1 hover-light" href="{{ post.url }}">
+                            <div class="grid">
+                                <div class="col-3-middle">
+                                    <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
+                    
+                                </div>
+                                <div class="col-9-middle padded-1">
+                            
+                                    <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ post.title }} </h4>
+                                    <p class="hide-xs"> {{ post.description }} </p>
+                            
+                                </div>
+                            </div>
+                        </a>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
 
-    </div>
+            {% if page.language == 'english' %}
+            {% for post in site.posts limit: 4 %}
+                {% if post.language == 'english' %}
+                    <a class="col-6_md-12-middle subtle-button-2 post-item padded-2 sm-padded-1 hover-light" href="{{ post.url }}">
+                        <div class="grid">
+                            <div class="col-3-middle">
+                                <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
+                
+                            </div>
+                            <div class="col-9-middle padded-1">
+                        
+                                <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ post.title }} </h4>
+                                <p class="hide-xs"> {{ post.description }} </p>
+                        
+                            </div>
+                        </div>
+                    </a>
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+     
+    
+            <div class="col-12-middle center padded-2">
+                <a class="subtle-button hover-light" href="/blog-archiv"> Archiv </a>
+            </div>
+    
+        </div>
+    
+    </section>
 
-</section>
+    {% include site-footer.html %}
+
+    <!-- Javascript  -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="/main.js"></script>
+
+</body>
+
+</html>
+

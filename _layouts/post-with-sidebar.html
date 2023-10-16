@@ -1,68 +1,90 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-<section class="bg-v-light">
+<head>
 
-<section class="grid padded capped-width-wide">
+    {% include head.html %}
+    
+</head>
 
-    <div class="padded-1 col-9_md-8_sm-12 blog-content">
+<body>
 
-        <div class="intro padded-1">
-            
-            <h1> {{ page.title }} </h1>
-            
-            <p class="post-info"> by {{ page.author }} | {{ page.date | date_to_string }} </p>
-         
-        </div>
-        <div class="padded-1">
+    {% include inline-styles.html %}
+    
+    {% include site-header.html %}
 
-            {{content}}
+    <section class="bg-v-light">
 
-        </div>
+        <section class="grid padded capped-width-wide">
         
-        {% include social-share.html %}
-
-    </div>
-
-    <!------------------ SIDEBAR  --------------------------------->
-    <aside class="padded-1 col-3_md-4_sm-12 bg-dark text-white">
-
-        <div class="sidebar-item padded-b-2 border-bottom padded-1 grid-center">
-
-            <div class="col-12-middle">
-                <div class="center">
-                    <img src="/images/post-sidebar-about.jpg" class="round">
+            <div class="padded-1 col-9_md-8_sm-12 blog-content">
+        
+                <div class="intro padded-1">
+                    
+                    <h1> {{ page.title }} </h1>
+                    
+                    <p class="post-info"> by {{ page.author }} | {{ page.date | date_to_string }} </p>
+                 
                 </div>
+                <div class="padded-1">
+        
+                    {{content}}
+        
+                </div>
+                
+                {% include social-share.html %}
+        
             </div>
-            <div class="col-12">
-                <p class="margin-t-1 editable">"Ich stehe dazu wer ich bin und was ich tue, denke und fühle. Ergeben sich Schwierigkeiten, nehme ich Anpassungen vor bis es wieder stimmig ist für mich."</p> 
-            </div>
-            <div class="col-12 margin-t-1">
-                <p class="left emphasis editable"> Alfred Schuler </p>
-            </div>
+        
+            <!------------------ SIDEBAR  --------------------------------->
+            <aside class="padded-1 col-3_md-4_sm-12 bg-dark text-white">
+        
+                <div class="sidebar-item padded-b-2 border-bottom padded-1 grid-center">
+        
+                    <div class="col-12-middle">
+                        <div class="center">
+                            <img src="/images/post-sidebar-about.jpg" class="round">
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <p class="margin-t-1 editable">"Ich stehe dazu wer ich bin und was ich tue, denke und fühle. Ergeben sich Schwierigkeiten, nehme ich Anpassungen vor bis es wieder stimmig ist für mich."</p> 
+                    </div>
+                    <div class="col-12 margin-t-1">
+                        <p class="left emphasis editable"> Alfred Schuler </p>
+                    </div>
+        
+                </div>
+        
+                <div class="sidebar-item margin-t-1 padded-1">
+                    <h4> Weitere Posts </h4>
+        
+                    <nav class="recent-posts-nav"> 
+                        {% for post in site.posts limit:8 %}
+                             <a href="{{post.url}}"> {{post.title}}</a>
+                        {% endfor %}
+                    </nav>
+        
+                </div>
+        
+                <div class="sidebar-item padded-1 tall-70">
+                    <div class="bg-image"></div>
+                </div>
+        
+            </aside> <!-- end sidebar-->
+        
+        </section>
+        
+        {% include related-posts.html %}
+        
+        </section>
 
-        </div>
+    {% include site-footer.html %}
 
-        <div class="sidebar-item margin-t-1 padded-1">
-            <h4> Weitere Posts </h4>
+    <!-- Javascript  -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="/main.js"></script>
 
-            <nav class="recent-posts-nav"> 
-                {% for post in site.posts limit:8 %}
-                     <a href="{{post.url}}"> {{post.title}}</a>
-                {% endfor %}
-            </nav>
+</body>
 
-        </div>
+</html>
 
-        <div class="sidebar-item padded-1 tall-70">
-            <div class="bg-image"></div>
-        </div>
-
-    </aside> <!-- end sidebar-->
-
-</section>
-
-{% include related-posts.html %}
-
-</section>

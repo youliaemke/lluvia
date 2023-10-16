@@ -1,17 +1,5 @@
 
-defaults:
-- scope:
-    path: '_posts/de'
-    type: 'posts'
-  values:
-    permalink: 'blog/:title'
-    language: de
-- scope:
-    path: '_posts/en'
-    type: 'posts'
-  values:
-    permalink: '/blog-en/:title'
-    language: en
+
     
 collections:
   posts:

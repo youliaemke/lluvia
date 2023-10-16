@@ -27,13 +27,13 @@ seo:
 
     <div class="capped-width padded grid-center">
 
-        {% assign siteposts = site.posts | where: 'page',page.language %}   
+        
         {% for post in site.posts limit:12 %}
-
-            {% include post-loop-item-square.html %}
-
+            {% if post.language == 'english' %}
+                {% include post-loop-item-square.html %}
+            {% endif %}
         {% endfor %}
-
+        
     </div>
 
 </section>
