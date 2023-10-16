@@ -136,8 +136,14 @@ html {
     background-repeat: no-repeat;
 }
 
+.bg-image-mentoring-1 { background-image: url('/images/mentoring/mentoring-2.jpg');}
+.bg-image-mentoring-2 { background-image: url('/images/mentoring/mentoring-3.jpg');}
+
 .bg-index-banner {
   background-image: url('/images/index/index-banner.jpg');
+}
+.bg-mentoring-banner {
+  background-image: url('/images/mentoring/mentoring-banner.jpg');
 }
 
 .bg-bodywork-banner {
@@ -145,7 +151,7 @@ html {
 }
 
 .bg-catering-banner {
-  background-image: url('/images/catering-retreats/catering-banner.jpg');
+  background-image: url('/images/catering-retreats/catering-banner.jpg')
 }
 
 .bg-overlay::after {
@@ -325,6 +331,18 @@ div a img:hover {
 
 .button:hover {
     color: var(--light);
+}
+
+.button-dark { 
+  display: inline-block;
+  text-decoration: none;
+  line-height: 1;
+  padding: 0.5rem 1.5rem;
+  border: 1px solid;
+}
+
+.button-dark:hover {
+  color: var(--medium);
 }
 
 .subtle-button {
