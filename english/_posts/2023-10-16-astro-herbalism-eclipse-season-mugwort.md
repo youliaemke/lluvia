@@ -34,9 +34,9 @@ Feelings like:
 * Mood Swings
 * Collective Events
 
-![](/uploads/blog-3.jpg)
+are likely to occur. Keep in mind that the impact of eclipse energy varies from person to person, depending on their birth chart and the specific planetary aspects involved. Some people may experience the effects more strongly than others.&nbsp;
 
-Are likely to occur. Keep in mind that the impact of eclipse energy varies from person to person, depending on their birth chart and the specific planetary aspects involved. Some people may experience the effects more strongly than others.&nbsp;
+![](/uploads/blog-3.jpg)
 
 **Working with a Moon herb, such as Mugwort, helps us to connect with our lunar selves / subconscious selves.**&nbsp;While many of us know our Sun sign, we don’t know our Moon sign which represents our most intimate truths about ourselves.&nbsp;[Knowing your Moon](http://www.wortsandcunning.com/lunar-apothecary){: target="_blank" rel="noopener"} means that you are better able to distribute the power of your Sun throughout your life. Working with Mugwort during eclipse season is one way to enhance your dreams, a primary mode of communication between our conscious selves and lunar selves. The herb can also help to unlock and enhance psychic gifts. If you’ve been denying your psychic gifts, eclipse season can be a time to reconnect with them, and Mugwort can help to open the path.
 
