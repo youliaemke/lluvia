@@ -371,6 +371,44 @@ div a img:hover {
 
 
 /* ------------ Header & Hamburger Menu -------------- */
+
+.earth {
+  padding: 0.5rem;
+  font-size: 1.3rem;;
+}
+
+.language {
+  display: inline-block;
+  position: relative;
+  padding-top: 0.4rem;
+  border-radius: 3rem 3rem 0 0;
+}
+
+.language-icons {
+  position: absolute;
+  top: 1;
+  border-radius: 0 0 3rem 3rem;
+  z-index: 3;
+  padding: 0.3rem;
+}
+
+.language a {
+  display: none;
+}
+
+.language:hover a {
+  display: block;
+}
+
+.language:hover .language-icons{
+  background-color: var(--dark)
+}
+
+
+.language:hover {
+  background-color: var(--dark)
+}
+
 header {
     padding: 1.5rem 3rem;
     background-color: var(--medium);
