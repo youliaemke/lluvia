@@ -233,7 +233,11 @@ h3 {
   font-family: 'Lora', serif;
   font-weight: 300;
  }
-h4 { font-size: 1.6rem; }
+h4 { 
+  font-size: 1.6rem;
+  font-family: 'Lora', serif;
+  font-weight: 300;
+ }
 h5 { font-size: 1.4rem; }
 h6 { font-size: 1.2rem; }
 
