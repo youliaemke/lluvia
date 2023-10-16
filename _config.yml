@@ -4,15 +4,22 @@ defaults:
     path: '_posts/de'
     type: 'posts'
   values:
-    permalink: '/posts/:year/:slug'
+    permalink: 'blog/:title'
     language: de
 - scope:
     path: '_posts/en'
     type: 'posts'
   values:
-    permalink: '/posts/:year/:slug'
+    permalink: '/blog-en/:title'
     language: en
     
+collections:
+  posts:
+    output: true
+    permalink: /posts/:year/:slug
+  archives: 
+    output: true
+
     
 _options:
   content:
