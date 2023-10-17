@@ -4,7 +4,11 @@ title: Nourishment for Mamas
 language: english
 categories:
   - english
-description:
+description: >-
+  Cooking for mothers is an act of love, a way to express gratitude and
+  appreciation for the incredible women who have brought life into this world.
+  It's not just about preparing a meal; it's a heartfelt gesture that says,
+  "Thank you for all you do."
 author: Lluvia
 featured: false
 featured_image: /images/blog/food-iphone-foto.jpeg
