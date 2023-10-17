@@ -106,8 +106,8 @@
           <a href="/catering-retreats.html"> Catering Retreats </a>
           <a href="/termin-buchen.html"> Termin buchen </a>
           <a href="/kontakt.html" class="featured"> Kontakt </a>
-          <a href="#"> <img src="/flags/germany.svg" class="flag"> </a>
-          <a href="{{page.url | replace:'/deutsch','/english'}}"> <img src="/flags/united-kingdom.svg" class="flag"></a>
+          <a href="#"> <p class="lindsey"> DE </p>  </a>
+          <a href="{{page.url | replace:'/deutsch','/english'}}"> <p class="lindsey"> EN </p> </a>
         </nav>
         <div class="social-links-mobile-menu">
           <a href="https://www.instagram.com/pajurama/" id="inline-block" target="_blank"><i class="fa-brands fa-instagram xs-fa-brands"></i></a>
@@ -134,8 +134,8 @@
           <a href="/english/termin-buchen.html"> Book now </a>
           <a href="/english/blog.html"> Blog </a>
           <a href="/english/kontakt.html" class="featured"> Contact </a>
-          <a href="{{page.url | replace:'/english','/deutsch'}}"> <img src="/flags/germany.svg" class="flag"> </a>
-          <a href="#"> <img src="/flags/united-kingdom.svg" class="flag"></a>
+          <a href="{{page.url | replace:'/english','/deutsch'}}"> <p class="lindsey"> DE </p> </a>
+          <a href="#"> <p class="lindsey"> EN </p> </a>
         </nav>
         <div class="social-links-mobile-menu">
           <a href="https://www.instagram.com/pajurama/" id="inline-block" target="_blank"><i class="fa-brands fa-instagram xs-fa-brands"></i></a>
@@ -168,52 +168,51 @@
     <section class="padded padded-b-2 archive">
     
         <div class="capped-width-narrow padded-05 center margin-b-1">
-            <h2> Weitere Blogposts </h2>
+            <h2 class="lindsey"> Weitere Blogposts </h2>
         </div>
     
         <div class="capped-width grid">
-            
-            {% if page.language == 'deutsch' %}
-                {% for post in site.posts limit: 4 %}
-                    {% if post.language == 'deutsch' %}
-                        <a class="col-6_md-12-middle subtle-button-2 post-item padded-2 sm-padded-1 hover-light" href="{{ post.url }}">
-                            <div class="grid">
-                                <div class="col-3-middle">
-                                    <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
-                    
-                                </div>
-                                <div class="col-9-middle padded-1">
-                            
-                                    <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ post.title }} </h4>
-                                    <p class="hide-xs"> {{ post.description | truncate: 60 }} </p>
-                            
-                                </div>
-                            </div>
-                        </a>
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
 
-          {% if page.language == 'english' %}
-            {% for post in site.posts limit: 4 %}
-                {% if post.language == 'english' %}
-                    <a class="col-6_md-12-middle subtle-button-2 post-item padded-2 sm-padded-1 hover-light" href="{{ post.url }}">
-                        <div class="grid">
-                            <div class="col-3-middle">
-                                <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
-                
-                            </div>
-                            <div class="col-9-middle padded-1">
-                        
-                                <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ post.title }} </h4>
-                                <p class="hide-xs"> {{ post.description | truncate: 60 }} </p>
-                        
-                            </div>
-                        </div>
-                    </a>
-                {% endif %}
-            {% endfor %}
-        {% endif %}
+        {% if page.language == 'english' %}
+          {% for post in site.posts limit: 4 %}
+              {% if post.language == 'english' %}
+                  <a class="col-6_md-12-middle subtle-button-2 post-item padded-2 sm-padded-1 hover-light" href="{{ post.url }}">
+                      <div class="grid">
+                          <div class="col-3-middle">
+                              <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
+              
+                          </div>
+                          <div class="col-9-middle padded-1">
+                      
+                              <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ post.title }} </h4>
+                              <p class="hide-xs"> {{ post.description | truncate: 60 }} </p>
+                      
+                          </div>
+                      </div>
+                  </a>
+              {% endif %}
+          {% endfor %}
+      {% elsif page.language == 'deutsch' %}
+          {% for post in site.posts limit: 4 %}
+              {% if post.language == 'deutsch' %}
+                  <a class="col-6_md-12-middle subtle-button-2 post-item padded-2 sm-padded-1 hover-light" href="{{ post.url }}">
+                      <div class="grid">
+                          <div class="col-3-middle">
+                              <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
+              
+                          </div>
+                          <div class="col-9-middle padded-1">
+                      
+                              <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ post.title }} </h4>
+                              <p class="hide-xs"> {{ post.description | truncate: 60 }} </p>
+                      
+                          </div>
+                      </div>
+                  </a>
+              {% endif %}
+          {% endfor %}
+      {% endif %}
+
      
     
             <div class="col-12-middle center padded-2">

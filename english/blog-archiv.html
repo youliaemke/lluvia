@@ -14,7 +14,7 @@ seo:
 <!------------------------ Split blog loop (part 1) ------------------------>
 
 <section class="center padded padded-b-0">
-    <h1 class="editable"> Archiv </h1>
+    <h1 class="editable lindsey"> Archiv </h1>
 </section>
 
 <section class="capped-width md-padded-2 archive">
@@ -34,7 +34,7 @@ seo:
                 <div class="col-9-middle padded-1">
             
                     <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ post.title }} </h4>
-                    <p class="hide-xs"> {{ post.description }} </p>
+                    <p class="hide-xs"> {{ post.description | truncate: 140 }} </p>
             
                 </div>
             </div>
