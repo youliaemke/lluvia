@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nourishment for Mamas /Update
+title: Nourishment for Mamas
 language: english
 description: >-
   Cooking for mothers is an act of love, a way to express gratitude and
