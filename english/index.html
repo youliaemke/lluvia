@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 title: Homepage
 language: english
 seo:
@@ -9,6 +9,58 @@ seo:
   twitter_card:
   keywords:
   hide-from-google: false
+testimonials:
+  - name: Noem
+    image: /images/healing/bodywork-massage.png
+    description: >-
+      To be honest the session with Youlia was something I had never experienced
+      before.  A time devoted entirely to femininity, and to me, and to her 😊
+      with aromatic oils, incense, crystals and more, I practically learned to
+      deal with all kinds of emotions that await me, I had a safe and wide space
+      to tell and speak what I feel. Depending on the conversation we moved on
+      to the physical part which was a pleasant and loving touch like that of a
+      mother or big sister. I want to mention the womb massage which was very
+      special to me.  She still takes time for me to discuss some of the things
+      that came up in the session, and is there to consult when needed. Full of
+      love ❤ 
+  - name: Madison Ryley
+    image: /images/healing/bodywork-massage.png
+    description: >-
+      I highly recommend This amazing Woman! Lluvia has such a loving and
+      nurturing touch. She is so intuitive and I have benefited so much from her
+      body work.
+  - name: Elle LaRose
+    image: /images/healing/bodywork-massage.png
+    description: >-
+      THIS WOMAN HAS GOT THE HEALING HANDS OF GOD. She's a witchy woman with a
+      bag full of goodies. Lluvia is a trustworthy, loving, raw, and nurturing
+      human. She listens and directs you on a path that is in alignment with
+      your highest self. Allowing you to open and expand while she paves the
+      path more clear for your journey. She feeds you, holds you, listens to
+      you, serves you, and makes time for herself. It is a true blessing to call
+      her a friend, a sister, and a teacher.
+  - name: Michael
+    image: /images/healing/bodywork-massage.png
+    description: >-
+      I came to San Marcos looking for someone to untangle the mess that I had
+      in my brain - Negative thought loops, self-imposed roadblocks, and an
+      inability to make a decision that was true to who I am. I found Jule, and
+      my session with her was extremely helpful in so many ways.  My time with
+      Jule was impossible to categorize.  The session itself was talk therapy,
+      massage, plant medicine, music therapy, art therapy, writing, great tea,
+      and so much more.  Jule made so many of the herbal oils and scents that
+      were used from scratch, and I was introduced to plants that I didn't even
+      know existed.  I talked, laughed, cried, and came out feeling cleansed.  I
+      felt completely safe and unrushed, and I was able to verbalize the issues
+      I have been having for the first time in many years.  I was able to focus
+      on what I needed to do to be true to myself and to my relationships. My
+      decisions following the session have been made with clarity and honesty,
+      and I was able to begin to heal a chasm that had grown between my wife and
+      I. I highly recommend a session with Jule.  If you have an intention, she
+      will help you move forward.  If you don't have an intention, she will help
+      you find it.  If you aren't looking for an intention, your time will still
+      be well spent, as you will be comfortable, safe, and experience a healing
+      massage, a great cup of tea, and beautiful aromas and sounds.
 ---
 
 <!------------------------ Image Banner  ------------------------>
@@ -81,4 +133,19 @@ seo:
   <h3 class="index-4-word-1 lindsey threerem"> Enjoyment </h3>
   <h3 class="index-4-word-2 lindsey threerem"> Connection </h3>
 
+</section>
+
+
+<section class="center">
+  <h2 class="lindsey tworem"> Testimonials </h2>
+  <section class="capped-width-narrow">
+          <div class="slider-container padded padded-t-2 center">   
+            {% for item in page.testimonials %}  
+              <div class="slider-item padded"> 
+                  <h5 class="block lindsey"> {{ item.name }} </h5>
+                  <p class="block"> {{ item.description }}</p>
+              </div>
+            {% endfor %}
+          </div>
+  </section>
 </section>

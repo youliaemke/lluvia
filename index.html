@@ -10,12 +10,6 @@ seo:
   keywords: 'bodywork massage, mentoring, '
   hide-from-google: false
 testimonials:
-  - name: Madison Ryley
-    image: /images/healing/bodywork-massage.png
-    description: >-
-      I highly recommend This amazing Woman! Lluvia has such a loving and
-      nurturing touch. She is so intuitive and I have benefited so much from her
-      body work.
   - name: Noem
     image: /images/healing/bodywork-massage.png
     description: >-
@@ -28,7 +22,13 @@ testimonials:
       mother or big sister. I want to mention the womb massage which was very
       special to me.  She still takes time for me to discuss some of the things
       that came up in the session, and is there to consult when needed. Full of
-      love ❤
+      love ❤ 
+  - name: Madison Ryley
+    image: /images/healing/bodywork-massage.png
+    description: >-
+      I highly recommend This amazing Woman! Lluvia has such a loving and
+      nurturing touch. She is so intuitive and I have benefited so much from her
+      body work.
   - name: Elle LaRose
     image: /images/healing/bodywork-massage.png
     description: >-
@@ -129,22 +129,14 @@ testimonials:
 
 
 
-<section class="bg-light">
+<section class="center">
+  <h2 class="lindsey tworem"> Testimonials </h2>
   <section class="capped-width-narrow">
-          <div class="slider-container padded center">   
+          <div class="slider-container padded padded-t-2 center">   
             {% for item in page.testimonials %}  
-              <div class="slider-item padded flex-center"> 
-                <div>
-                  <figure class="image block">
-                    <img src="{{ item.image }}" class="round testimonial" /> 
-                  </figure>
-                </div>
-                <div>
-                  <h5 class="block"> {{ item.name }} </h5>
-                </div>
-                <div>
+              <div class="slider-item padded"> 
+                  <h5 class="block lindsey"> {{ item.name }} </h5>
                   <p class="block"> {{ item.description }}</p>
-                </div>
               </div>
             {% endfor %}
           </div>
