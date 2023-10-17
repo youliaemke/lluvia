@@ -4,7 +4,12 @@ title: Nourishment for Mamas
 language: deutsch
 categories:
   - deutsch
-description:
+description: >-
+  Für Mütter zu kochen ist ein Akt der Liebe, eine Möglichkeit, Dankbarkeit und
+  Wertschätzung für die unglaublichen Frauen auszudrücken, die das Leben in
+  diese Welt gebracht haben. Es geht nicht nur darum, eine Mahlzeit
+  zuzubereiten; es ist eine von Herzen kommende Geste, die sagt: "Danke für
+  alles, was du tust."
 author: Lluvia
 featured: false
 featured_image: /images/blog/food-iphone-foto.jpeg
