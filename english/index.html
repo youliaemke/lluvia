@@ -64,10 +64,10 @@ testimonials:
 ---
 
 <!------------------------ Image Banner  ------------------------>
-<section class="padded-2 xs-padded-0 capped-width relative">
+<section class="padded-2 xs-padded-0 capped-width relative xs-padded-bottom-custom">
     <img src="/images/index/Index-banner-1.png">
 
-    <h2 class="fourrem lindsey padded-2 margin-t-2"> Lluvia = Rain </h2>
+    <h2 class="fourrem lindsey padded-2 margin-t-2 hide-xs"> Lluvia = Rain </h2>
 
     <div class="keywords-index">
       <h2> Bodywork Massages </h2>
@@ -78,20 +78,23 @@ testimonials:
 
 </section>
 
+<div class="show-xs padded">
+  <h2 class="lindsey"> Lluvia = Rain </h2>
+</div>
 
 <section class="bg-light">
-  <section class="capped-width padded-2">
+  <section class="capped-width padded-2 xs-padded-0">
     <img src="/images/index/Index-banner-2-english.png">
   </section>
 </section>
 
 
-<section class="capped-width padded-2 grid-spaceAround-middle">
-    <div class="col-6 padded">
+<section class="capped-width padded-2 xs-padded-5 grid-spaceAround-middle">
+    <div class="col-6_sm-12 padded">
       <h2 class="editable"> Hey, I'm Lluvia </h2>
       </ul> The mystery of life and man and his motivations have always fascinated me.<br><br> I love life in all its glory. The smells, textures and tastes that life brings are also magically reflected in the kitchen, with all the wild, colorful ingredients it contains. Nature is my living room, plants my closest allies, fire my constant companion and water my faithful friend that holds me.<br><br> A main motive of my life is (emotional) expression. Expressing who you are and what you feel right now, without shame, without restraint. This means absolute freedom for me.<br><br> Helping others to do this and touching their innermost is a huge gift and gives me an incredible amount of joy. </p>
     </div>
-    <div class="col-6 padded">
+    <div class="col-6_sm-12 padded">
       <img src="/images/index/Index-3.png">
     </div>
 </section>
@@ -100,16 +103,16 @@ testimonials:
 
 <section class="capped-width grid-spaceAround-middle padded padded-t-1 center">
   <div class="col-1-bottom"> <p class="lindsey threerem"> " </p> </div>
-  <div class="col-10"> <p class="lindsey threerem"> I hope you will go out and let stories, that is life, happen to you, and that you will work with these stories... water them with your blood and tears and your laughter till they bloom, till you yourself burst into bloom. </p> 
+  <div class="col-10"> <p class="lindsey tworem"> I hope you will go out and let stories, that is life, happen to you, and that you will work with these stories... water them with your blood and tears and your laughter till they bloom, till you yourself burst into bloom. </p> 
   <p class="editable"> - Clarissa Pinkola Estés, Women Who Run With the Wolves </p></div>
   <div class="col-1-top"> <p class="lindsey threerem"> " </p> </div>
 </section>
 
 
-<section class="bg-image bg-index-banner bg-overlay tall-70 flex-center text-white">
+<section class="bg-image bg-index-banner bg-overlay tall-70 xs-tall-50 flex-center text-white">
   <div class="grid-spaceAround-middle padded">
     <div class="col-6-middle padded">
-      <h2 class="editable"> If you're looking for someone in charge, use a mirror, not binoculars! </h2>
+      <h2 class="editable sm-1-6rem"> If you're looking for someone in charge, use a mirror, not binoculars! </h2>
     </div>
     <div class="col-6 center relative"> 
       <p class="lindsey quote-bg-image"> Peace - Unity - Freedom </p>
@@ -119,7 +122,7 @@ testimonials:
 
 
 
-<section class="capped-width padded-lg relative">
+<section class="capped-width padded-lg xs-padded-5 relative">
   <img src="/images/index/Index-4.png">
 
   <h3 class="index-4-word-1 lindsey threerem"> Enjoyment </h3>
@@ -128,7 +131,7 @@ testimonials:
 </section>
 
 
-<section class="center">
+<section class="center hide-md">
   <h2 class="lindsey tworem"> Testimonials </h2>
   <section class="capped-width-narrow">
           <div class="slider-container padded padded-t-2 center">   
@@ -139,5 +142,18 @@ testimonials:
               </div>
             {% endfor %}
           </div>
+  </section>
+</section>
+
+
+<section class="center show-md bg-light padded padded-t-2">
+  <h2 class="lindsey tworem"> Testimonials </h2>
+  <section class="capped-width-narrow"> 
+            {% for item in page.testimonials %}  
+              <div class="padded testimonial-box-md margin-b-1"> 
+                  <h5 class="block lindsey"> {{ item.name }} </h5>
+                  <p class="block"> {{ item.description }}</p>
+              </div>
+            {% endfor %}
   </section>
 </section>

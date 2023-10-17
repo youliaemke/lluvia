@@ -7,7 +7,7 @@ $( document ).ready(function() {
 
 
 	$('.slider-container').slick({
-		autoplay: true,        // Do we want it to autoplay? true or false
+		autoplay: false,        // Do we want it to autoplay? true or false
 		autoplaySpeed: 9000,   // How long between each slide when autoplaying
 		speed: 500,            // How fast is the transition 
 		arrows: true,          // Do you want to show arrows to trigger each slide

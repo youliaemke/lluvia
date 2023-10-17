@@ -528,7 +528,6 @@ footer nav a {
   right: 4vh;
   z-index: 9;
   padding: 8px;
-  margin-top: 0.8rem;
   line-height: 1.7;
   cursor: pointer;
   
@@ -549,7 +548,7 @@ footer nav a {
 
 .burger-button-index span{
   width: 35px;
-  border: 2px solid var(--medium);
+  border: 1px solid var(--medium);
   background-color: white;
   display: block;
   transition: 0.5s;
@@ -563,7 +562,7 @@ footer nav a {
 
 .burger-button span{
   width: 35px;
-  border: 2px solid var(--medium);
+  border: 1px solid #ecd9c0;
   background-color: white;
   display: block;
   transition: 0.5s;
@@ -775,6 +774,10 @@ button:hover {
 
 /* ------------ Slick Slider elements  ----------------------- */
 
+.testimonial-box-md {
+  border: 2px solid var(--medium);
+}
+
 /* Slider */
 
 .slider-item {
@@ -796,6 +799,14 @@ button:hover {
 
 .slick-prev {
   left: 10px;
+}
+
+.slick-next:hover {
+  border: 0;
+}
+
+.slick-prev:hover {
+  border: 0;
 }
 
 .slick-next::before, .slick-prev::before {
@@ -882,6 +893,31 @@ hr.short.center {
 	.show-md { display: block; }
 	.hide-md { display: none;  }
 
+  .logo {
+    font-size: 1.4rem;
+  }
+
+  .keywords-index h2 {
+    font-size: 1.6rem;
+  }
+
+  .fourrem {
+    font-size: 3rem;
+  }
+  .threerem { font-size: 2.5rem;}
+
+  .index-4-word-1 { 
+    position: absolute; 
+    top: 30%;
+    left: 13%;
+  }
+  
+  .index-4-word-2 { 
+    position: absolute; 
+    bottom: 30%;
+    right: 13%;
+  }
+
 }
 
 /* ------- SM Media Query (48em / 768px) --------------- */ 
@@ -911,6 +947,26 @@ hr.short.center {
   .sm-portrait      { padding-bottom: 125%; }
   .sm-square        { padding-bottom: 100%; }
 
+  .keywords-index h2 {
+    font-size: 1.5rem;
+  }
+
+  .keywords-index {
+    right: 1.5rem;
+    bottom: 2rem;
+  }
+
+  .fourrem {
+    font-size: 2rem;
+  }
+  .threerem { font-size: 2rem;}
+
+  .sm-1-6rem { font-size: 1.6rem;}
+
+  .quote-bg-image {
+    right: -6rem;
+    font-size: 1.65rem;
+  }
 }
 
 /* ------- XS Media Query (36em / 576px) --------------- */ 
@@ -927,4 +983,65 @@ hr.short.center {
       font-weight: 300;
       font-family: 'Martel', serif; 
     }
+
+
+    .keywords-index h2 {
+      font-size: 1.2rem;
+    }
+  
+    .keywords-index {
+      right: 1.5rem;
+      bottom: 1.2rem;
+    }
+    .threerem { font-size: 1.5rem;}
+    .fourrem {
+      font-size: 1.5rem;
+    }
+    .tworem {
+      font-size: 1.5rem;
+    }
+
+    .sm-1-6rem {
+      font-size: 1.1rem;
+    }
+
+    .xs-rotate-rain {
+      transform: rotate(-90deg);
+    }
+
+    .xs-padded-bottom-custom {
+      padding-bottom: 9.6rem;
+    }
+
+    .xs-margin-l-0 { margin-left: 0;}
+
+    header {
+      padding: 1.5rem 1.5rem;
+    }
+
+    .xs-padded-r-0 { padding-right: 0;}
+
+    .xs-padded-5 { padding: 5%;}
+
+    .xs-tall-50 {
+      min-height: 50vh;
+    }
+
+    .index-4-word-1 { 
+      position: absolute; 
+      top: 26%;
+      left: 10%;
+    }
+    
+    .index-4-word-2 { 
+      position: absolute; 
+      bottom: 26%;
+      right: 5%;
+    }
+
+    .quote-bg-image {
+      right: -4rem;
+      font-size: 1.15rem;
+    }
+
 }

@@ -63,10 +63,10 @@ testimonials:
       massage, a great cup of tea, and beautiful aromas and sounds.
 ---
 <!------------------------ Image Banner  ------------------------>
-<section class="padded-2 xs-padded-0 capped-width relative">
+<section class="padded-2 xs-padded-0 capped-width relative xs-padded-bottom-custom">
     <img src="/images/index/Index-banner-1.png" />
 
-    <h2 class="fourrem lindsey padded-2 margin-t-2"> Lluvia = Regen </h2>
+    <h2 class="fourrem lindsey padded-2 margin-t-2 hide-xs"> Lluvia = Regen </h2>
 
     <div class="keywords-index">
       <h2> Bodywork Massagen </h2>
@@ -77,20 +77,24 @@ testimonials:
 
 </section>
 
+<div class="show-xs padded">
+  <h2 class="lindsey"> Lluvia = Regen </h2>
+</div>
+
 
 <section class="bg-light">
-  <section class="capped-width padded-2">
+  <section class="capped-width padded-2 xs-padded-0">
     <img src="/images/index/Index-banner-2.png" />
   </section>
 </section>
 
 
-<section class="capped-width padded-2 grid-spaceAround-middle">
-    <div class="col-6 padded">
+<section class="capped-width padded-2 xs-padded-5 grid-spaceAround-middle">
+    <div class="col-6_sm-12 padded">
       <h2 class="editable"> Hey, bin Lluvia </h2>
       <p class="editable"> Das Mysterium Leben und der Mensch und seine Beweggründe haben mich seit jeher fasziniert. <br /><br /> Ich liebe das Leben in all seiner Pracht. Die Gerüche, Texturen und Geschmäcker, die das Leben mit sich bringen, spiegeln sich auch zauberhaft in der Küche wider, mit all ihren wilden, bunten Zutaten, die sie beinhalten. Die Natur ist mein Wohnzimmer, die Pflanzen meine engsten Verbündeten, das Feuer mein stetiger Begleiter und das Wasser mein treuer Freund, der mich hält.<br /><br /> Auszudrücken, wer du bist und was du gerade fühlst, ohne Scham, ohne Zurückhaltung. Jede Emotion erlauben zu dürfen. Dies bedeutet absolute Freiheit für mich. <br /><br /> Anderen zu helfen, dies zu tun, deren Innerstes dabei anrühren und dadurch zu helfen, sich mit ihrer eigenen Magie wieder zu verbinden, ist ein riesiges Geschenk und bereitet mir unglaublich viel Freude. </p>
     </div>
-    <div class="col-6 padded">
+    <div class="col-6_sm-12 padded">
       <img src="/images/index/Index-3.png" />
     </div>
 </section>
@@ -99,16 +103,16 @@ testimonials:
 
 <section class="capped-width grid-spaceAround-middle padded padded-t-1 center">
   <div class="col-1-bottom"> <p class="lindsey threerem"> " </p> </div>
-  <div class="col-10"> <p class="lindsey threerem"> Ich hoffe, dass du hinausgehst und dir Geschichten, also das Leben, widerfahren lässt, und dass du mit diesen Geschichten arbeitest ... sie mit deinem Blut und deinen Tränen und deinem Lachen gießt, bis sie blühen, bis du selbst aufblühst. </p> 
+  <div class="col-10"> <p class="lindsey tworem"> Ich hoffe, dass du hinausgehst und dir Geschichten, also das Leben, widerfahren lässt, und dass du mit diesen Geschichten arbeitest ... sie mit deinem Blut und deinen Tränen und deinem Lachen gießt, bis sie blühen, bis du selbst aufblühst. </p> 
   <p class="editable"> - Clarissa Pinkola Estés, Women Who Run With the Wolves </p></div>
   <div class="col-1-top"> <p class="lindsey threerem"> " </p> </div>
 </section>
 
 
-<section class="bg-image bg-index-banner bg-overlay tall-70 flex-center text-white">
+<section class="bg-image bg-index-banner bg-overlay tall-70 xs-tall-50 flex-center text-white">
   <div class="grid-spaceAround-middle padded">
     <div class="col-6-middle padded">
-      <h2 class="editable"> Wenn Du einen Verantwortlichen suchst, benutze einen Spiegel und kein Fernglas! </h2>
+      <h2 class="editable sm-1-6rem"> Wenn Du einen Verantwortlichen suchst, benutze einen Spiegel und kein Fernglas! </h2>
     </div>
     <div class="col-6 center relative"> 
       <p class="lindsey quote-bg-image"> Peace - Unity - Freedom </p>
@@ -118,7 +122,7 @@ testimonials:
 
 
 
-<section class="capped-width padded-lg relative">
+<section class="capped-width padded-lg xs-padded-5 relative">
   <img src="/images/index/Index-4.png" />
 
   <h3 class="index-4-word-1 lindsey threerem"> Genuss </h3>
@@ -129,7 +133,7 @@ testimonials:
 
 
 
-<section class="center">
+<section class="center hide-md">
   <h2 class="lindsey tworem"> Testimonials </h2>
   <section class="capped-width-narrow">
           <div class="slider-container padded padded-t-2 center">   
@@ -143,4 +147,15 @@ testimonials:
   </section>
 </section>
 
+<section class="center show-md bg-light padded padded-t-2">
+  <h2 class="lindsey tworem"> Testimonials </h2>
+  <section class="capped-width-narrow"> 
+            {% for item in page.testimonials %}  
+              <div class="padded testimonial-box-md margin-b-1"> 
+                  <h5 class="block lindsey"> {{ item.name }} </h5>
+                  <p class="block"> {{ item.description }}</p>
+              </div>
+            {% endfor %}
+  </section>
+</section>
 
