@@ -115,6 +115,10 @@ html {
   justify-content: center;
 }
 
+.flex-flip:nth-child(2n) {
+  flex-flow:row-reverse wrap;
+}
+
 /* ------------ Backgrounds & Background Images  ----------------------- */
 .round-edges {
   border-radius: 2rem;
@@ -255,6 +259,14 @@ h5 { font-size: 1.4rem; }
 h6 { font-size: 1.2rem; }
 
 .quote-bg-image {
+  transform: rotate(90deg);
+  position: absolute;
+  right: -8rem;
+  font-size: 2.25rem;
+  color: white;
+}
+
+.quote-bg-image-mentoring {
   transform: rotate(90deg);
   position: absolute;
   right: -8rem;
@@ -859,6 +871,17 @@ hr.short.center {
   margin: 1rem auto;
 }
 
+hr.long {
+  border-top: 1px solid var(--dark-text);
+  width: 100%;
+  margin: 5%;
+}
+
+hr.long.center {
+  margin:auto;
+  margin: 1rem auto;
+}
+
 
 /* ------------ Page Name  ----------------------- */
 
@@ -967,6 +990,8 @@ hr.short.center {
     right: -6rem;
     font-size: 1.65rem;
   }
+
+  .sm-padded-t-0 { padding-top: 0;}
 }
 
 /* ------- XS Media Query (36em / 576px) --------------- */ 
@@ -1042,6 +1067,11 @@ hr.short.center {
     .quote-bg-image {
       right: -4rem;
       font-size: 1.15rem;
+    }
+
+    .quote-bg-image-mentoring {
+      right: -2.4rem;
+      font-size: 0.85rem;
     }
 
 }
