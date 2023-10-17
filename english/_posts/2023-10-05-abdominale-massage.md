@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abdominale Massage
+title: Abdominal Massage
 language: english
 categories:
   - english
