@@ -11,139 +11,7 @@
 
     {% include inline-styles.html %}
     
-    <header class="grid-middle bg-medium text-white">
-
-        {% if page.language == "deutsch" %}
-      
-        <div class="col-3">
-          <div class="margin-l-1">
-            <a href="/"> <h1 class="lindsey logo"> Rain & Rosemary </h1> </a>
-          </div>
-        </div> 
-      
-        <nav class="col-9-right right hide-sm padded-05">
-          <a href="/"> Start </a>
-            <a href="/ueber-mich.html"> Über mich </a>
-            <div class="dropdown">
-              <a href="/healing.html" class="dropdown-title"> Healing </a>
-              <div class="dropdown-content">
-                <a href="/bodywork-massage.html"> Bodywork Massage </a>
-                <a href="/mentoring.html"> Mentoring </a>
-                <a href="/kraeuterkunde.html"> Kräuterkunde </a>
-              </div>
-            </div>
-            <a href="/catering-retreats.html"> Catering Retreats </a>
-            <a href="/termin-buchen.html"> Termin buchen </a>
-            <a href="/blog.html"> Blog </a>
-            <a href="/kontakt.html" class="featured"> Kontakt </a>
-          <div class="language"> <span class="earth"><i class="fa-solid fa-earth-africa"></i> </span>
-            <div class="language-icons">
-              <a href="#" class="center"> <p class="lindsey"> DE </p>  </a>
-              <a href="{{page.url | replace:'/deutsch','/english'}}" class="center"> <p class="lindsey"> EN </p> </a>
-            </div>
-          </div>
-          
-        </nav> 
-      
-        {% endif %}
-        
-        {% if page.language == "english" %}
-      
-        <div class="col-3">
-          <div class="margin-l-1">
-            <a href="/english"> <h1 class="lindsey logo"> Rain & Rosemary </h1> </a>
-          </div>
-        </div> 
-      
-          <nav class="col-9-right right hide-sm padded-05">
-      
-            <a href="/english"> Start </a>
-            <a href="/english/ueber-mich.html"> About </a>
-            <div class="dropdown">
-              <a href="/english/healing.html" class="dropdown-title"> Healing </a>
-              <div class="dropdown-content">
-                <a href="/english/bodywork-massage.html"> Bodywork Massage </a>
-                <a href="/english/mentoring.html"> Mentoring </a>
-                <a href="/english/kraeuterkunde.html"> Herbology </a>
-              </div>
-            </div>
-            <a href="/english/catering-retreats.html"> Catering Retreats </a>
-            <a href="/english/termin-buchen.html"> Book now </a>
-            <a href="/english/blog.html"> Blog </a>
-            <a href="/english/kontakt.html" class="featured"> Contact </a>
-            <div class="language"> <span class="earth"> <i class="fa-solid fa-earth-africa"></i> </span>
-              <div class="language-icons">
-                <a href="{{page.url | replace:'/english','/deutsch'}}" class="center"> <p class="lindsey"> DE </p>  </a>
-                <a href="#" class="center"> <p class="lindsey"> EN </p> </a>
-              </div>
-            </div>
-          </nav> 
-      
-          {% endif %}
-      
-          <div class="col-7 right show-sm">
-            <div class="burger-button">
-              <span class="burger-top"></span>
-              <span class="burger-middle"></span>
-              <span class="burger-bottom"></span>
-          </div>
-          </div>
-        </header>
-      
-      {% if page.language == "deutsch" %}
-        
-      <div class="mobile-menu"> 
-        <h1 class="logo-mob-menu left"> Rain & Rosemary </h1>
-        <nav class="mobile-menu-links"> 
-          <a href="/"> Start </a>
-          <a href="/ueber-mich"> Über mich </a>
-          <a href="/healing.html"> Healing </a>
-          <div class="dropdown-content-mobile">
-            <a href="/bodywork-massage.html"> Bodywork Massage </a>
-            <a href="/mentoring.html"> Mentoring </a>
-            <a href="/kraeuterkunde.html"> Kräuterkunde </a>
-          </div>
-          <a href="/catering-retreats.html"> Catering Retreats </a>
-          <a href="/termin-buchen.html"> Termin buchen </a>
-          <a href="/kontakt.html" class="featured"> Kontakt </a>
-          <a href="#"> <p class="lindsey"> DE </p>  </a>
-          <a href="{{page.url | replace:'/deutsch','/english'}}"> <p class="lindsey"> EN </p> </a>
-        </nav>
-        <div class="social-links-mobile-menu">
-          <a href="https://www.instagram.com/pajurama/" id="inline-block" target="_blank"><i class="fa-brands fa-instagram xs-fa-brands"></i></a>
-          <a href="https://www.pinterest.ch/pajurama/_created/" id="inline-block" target="_blank"><i class="fa-brands fa-pinterest xs-fa-brands"></i></a>
-        </div>
-      </div> 
-      
-      {% endif %}
-      
-      {% if page.language == "english" %}
-        
-      <div class="mobile-menu"> 
-        <h1 class="logo-mob-menu left"> Rain & Rosemary </h1>
-        <nav class="mobile-menu-links"> 
-          <a href="/english"> Start </a>
-          <a href="/english/ueber-mich.html"> About </a>
-          <a href="/english/healing.html"> Healing </a>
-            <div class="dropdown-content-mobile">
-              <a href="/english/bodywork-massage.html"> Bodywork Massage </a>
-              <a href="/english/mentoring.html"> Mentoring </a>
-              <a href="/english/kraeuterkunde.html"> Herbology </a>
-            </div>
-          <a href="/english/catering-retreats.html"> Catering Retreats </a>
-          <a href="/english/termin-buchen.html"> Book now </a>
-          <a href="/english/blog.html"> Blog </a>
-          <a href="/english/kontakt.html" class="featured"> Contact </a>
-          <a href="{{page.url | replace:'/english','/deutsch'}}"> <p class="lindsey"> DE </p> </a>
-          <a href="#"> <p class="lindsey"> EN </p> </a>
-        </nav>
-        <div class="social-links-mobile-menu">
-          <a href="https://www.instagram.com/pajurama/" id="inline-block" target="_blank"><i class="fa-brands fa-instagram xs-fa-brands"></i></a>
-          <a href="https://www.pinterest.ch/pajurama/_created/" id="inline-block" target="_blank"><i class="fa-brands fa-pinterest xs-fa-brands"></i></a>
-        </div>
-      </div> 
-      
-      {% endif %}
+    {% include site-header.html %}
 
     <section class="center capped-width padded padded-b-0">
         <h1 class="lindsey"> {{ page.title }} </h1>
@@ -168,7 +36,11 @@
     <section class="padded padded-b-2 archive">
     
         <div class="capped-width-narrow padded-05 center margin-b-1">
+          {% if page.language == 'deutsch' %}
             <h2 class="lindsey"> Weitere Blogposts </h2>
+          {% elsif page.language == 'english' %}
+          <h2 class="lindsey"> More Blogposts </h2>
+          {% endif %}
         </div>
     
         <div class="capped-width grid">
@@ -179,7 +51,7 @@
                   <a class="col-6_md-12-middle subtle-button-2 post-item padded-2 sm-padded-1 hover-light" href="{{ post.url }}">
                       <div class="grid">
                           <div class="col-3-middle">
-                              <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
+                              <div class="bg-image square round-edges-1" style="background-image:url( '{{ post.featured_image }}' );"></div>
               
                           </div>
                           <div class="col-9-middle padded-1">
@@ -198,7 +70,7 @@
                   <a class="col-6_md-12-middle subtle-button-2 post-item padded-2 sm-padded-1 hover-light" href="{{ post.url }}">
                       <div class="grid">
                           <div class="col-3-middle">
-                              <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
+                              <div class="bg-image square round-edges-1" style="background-image:url( '{{ post.featured_image }}' );"></div>
               
                           </div>
                           <div class="col-9-middle padded-1">
@@ -216,7 +88,11 @@
      
     
             <div class="col-12-middle center padded-2">
+              {% if page.language == 'deutsch' %}
                 <a class="subtle-button hover-light" href="/blog-archiv"> Archiv </a>
+              {% elsif page.language == 'english' %}
+                <a class="subtle-button hover-light" href="/english/blog-archiv"> Archive </a>
+              {% endif %}
             </div>
     
         </div>

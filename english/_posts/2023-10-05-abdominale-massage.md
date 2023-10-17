@@ -2,8 +2,6 @@
 layout: post
 title: Abdominal Massage
 language: english
-categories:
-  - english
 description: >-
   An Abdominal massage or Womb Massage, to me, is like a gentle and caring
   conversation with one of the most underrated parts of our bodies. It's a

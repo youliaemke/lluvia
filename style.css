@@ -120,6 +120,10 @@ html {
   border-radius: 2rem;
 }
 
+.round-edges-1 {
+  border-radius: 1rem;
+}
+
 .round { border-radius: 100%; }
 .testimonial {
   max-width: 7rem;
