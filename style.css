@@ -777,8 +777,9 @@ button:hover {
 }
 
 .slider-item {
-  padding: 1rem;
+  padding: 3rem;
   display: none;
+  height: 100%
 }
 
 .slider-item:first-child {
@@ -820,6 +821,9 @@ button:hover {
   color: teal; 
 }
 
+.slick-dotted.slick-slider {
+  margin-bottom: 0;
+}
 
 
 /* Miscelaneous elements  */
