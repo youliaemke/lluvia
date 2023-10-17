@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abdominal Massage / Update
+title: Abdominal Massage
 language: english
 description: >-
   An Abdominal massage or Womb Massage, to me, is like a gentle and caring
