@@ -779,7 +779,7 @@ button:hover {
 .slider-item {
   padding: 3rem;
   display: none;
-  height: 100%
+  min-height: 575px;
 }
 
 .slider-item:first-child {

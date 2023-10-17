@@ -12,13 +12,13 @@ seo:
 testimonials:
   - name: Madison Ryley
     image: /images/healing/bodywork-massage.png
-    review: >-
+    description: >-
       I highly recommend This amazing Woman! Lluvia has such a loving and
       nurturing touch. She is so intuitive and I have benefited so much from her
       body work.
   - name: Noem
     image: /images/healing/bodywork-massage.png
-    review: >-
+    description: >-
       To be honest the session with Youlia was something I had never experienced
       before.  A time devoted entirely to femininity, and to me, and to her 😊
       with aromatic oils, incense, crystals and more, I practically learned to
@@ -31,7 +31,7 @@ testimonials:
       love ❤
   - name: Elle LaRose
     image: /images/healing/bodywork-massage.png
-    review: >-
+    description: >-
       THIS WOMAN HAS GOT THE HEALING HANDS OF GOD. She's a witchy woman with a
       bag full of goodies. Lluvia is a trustworthy, loving, raw, and nurturing
       human. She listens and directs you on a path that is in alignment with
@@ -41,7 +41,7 @@ testimonials:
       her a friend, a sister, and a teacher.
   - name: Michael
     image: /images/healing/bodywork-massage.png
-    review: >-
+    description: >-
       I came to San Marcos looking for someone to untangle the mess that I had
       in my brain - Negative thought loops, self-imposed roadblocks, and an
       inability to make a decision that was true to who I am. I found Jule, and
@@ -130,15 +130,21 @@ testimonials:
 
 
 <section class="bg-light">
-  <section class="capped-width">
+  <section class="capped-width-narrow">
           <div class="slider-container padded center">   
             {% for item in page.testimonials %}  
-              <div class="slider-item padded"> 
-                  <figure class="image">
+              <div class="slider-item padded flex-center"> 
+                <div>
+                  <figure class="image block">
                     <img src="{{ item.image }}" class="round testimonial" /> 
-                  </figure>     
-                  <h5> {{ item.name }} </h5>
-                  <p> {{ item.review }}</p>
+                  </figure>
+                </div>
+                <div>
+                  <h5 class="block"> {{ item.name }} </h5>
+                </div>
+                <div>
+                  <p class="block"> {{ item.description }}</p>
+                </div>
               </div>
             {% endfor %}
           </div>
