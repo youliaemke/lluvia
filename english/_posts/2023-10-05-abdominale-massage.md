@@ -23,8 +23,7 @@ An Abdominal massage or Womb Massage, to me, is like a gentle and caring convers
 
 Different Cultures in the World honoring this part as our Life Force Center. This is where we give birth, not just in physical form. It's the space where our Visions and Dreams are formed. This is the space where we create.
 
-
-![](/images/blog/blog-1-inline.jpg)
+![](/images/blog/blog-1-inline.jpg){: .float-left-image}
 
 I first discovered the magic of an abdominal massage while I was living in Guatemala. A dear sister participated in a Mayan Abdominal Massage Course and I was her Model to practice on. As my friend's hands began to work their way across my abdomen, I could feel the tension melting away, just like the sun's warmth slowly seeping through the morning mist. It was one of those rare moments when I felt truly connected to my body. I knew immediately that I wanted to learn more to connect deeper with my Womb Space and to share these old techniques with the World.
 
@@ -32,7 +31,6 @@ The touch was deliberate yet tender, like a reassuring hug from an old friend. I
 
 As the massage continued, I became acutely aware of the intricate web of muscles, organs, and emotions that reside in this sacred space. It felt like my sister was tracing the map of my inner world with her fingertips, unraveling knots of tension and inviting a sense of release. It wasn't just physical relief but a profound emotional unwinding as well.
 
-Abdominal massage is like a dance between vulnerability and trust. It's an invitation to let go of the baggage we carry in our bellies, whether it's the stress of a hectic week or the weight of unspoken worries. It's a safe haven where we can shed our armor and allow ourselves to be vulnerable.
-It can stimulate digestion and irregular menstruation, improve circulation, helps with cysts, fibroids and ease discomfort. But it's more than just physical benefits; it's a reminder to listen to the whispers of our bodies, to nurture the relationship we have with ourselves. It's a practice that encourages us to slow down, breathe deeply, and reconnect with the core of our being.
+Abdominal massage is like a dance between vulnerability and trust. It's an invitation to let go of the baggage we carry in our bellies, whether it's the stress of a hectic week or the weight of unspoken worries. It's a safe haven where we can shed our armor and allow ourselves to be vulnerable. It can stimulate digestion and irregular menstruation, improve circulation, helps with cysts, fibroids and ease discomfort. But it's more than just physical benefits; it's a reminder to listen to the whispers of our bodies, to nurture the relationship we have with ourselves. It's a practice that encourages us to slow down, breathe deeply, and reconnect with the core of our being.
 
 Abdominal massage is a gift we can give ourselves, a gesture of self-love and self-care. It's a testament to the incredible wisdom that resides within us, a wisdom that often gets drowned out in the noise of our busy lives. So, I encourage you to seek out this gentle, nurturing practice and allow your abdomen to speak its truths. In doing so, you may discover a newfound sense of balance and harmony within yourself.
