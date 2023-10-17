@@ -36,7 +36,7 @@
             <a href="/termin-buchen.html"> Termin buchen </a>
             <a href="/blog.html"> Blog </a>
             <a href="/kontakt.html" class="featured"> Kontakt </a>
-          <div class="language"> <span class="earth"> <i class="fa-solid fa-language"></i>  </span>
+          <div class="language"> <span class="earth"><i class="fa-solid fa-earth-africa"></i> </span>
             <div class="language-icons">
               <a href="#" class="center"> <p class="lindsey"> DE </p>  </a>
               <a href="{{page.url | replace:'/deutsch','/english'}}" class="center"> <p class="lindsey"> EN </p> </a>
@@ -71,7 +71,7 @@
             <a href="/english/termin-buchen.html"> Book now </a>
             <a href="/english/blog.html"> Blog </a>
             <a href="/english/kontakt.html" class="featured"> Contact </a>
-            <div class="language"> <span class="earth"> <i class="fa-solid fa-language"></i> </span>
+            <div class="language"> <span class="earth"> <i class="fa-solid fa-earth-africa"></i> </span>
               <div class="language-icons">
                 <a href="{{page.url | replace:'/english','/deutsch'}}" class="center"> <p class="lindsey"> DE </p>  </a>
                 <a href="#" class="center"> <p class="lindsey"> EN </p> </a>
@@ -145,8 +145,8 @@
       
       {% endif %}
 
-    <section class="center padded padded-b-0">
-        <h1> {{ page.title }} </h1>
+    <section class="center capped-width padded padded-b-0">
+        <h1 class="lindsey"> {{ page.title }} </h1>
     
         <div class="intro padded-1 center">      
             <p class="post-info"> by {{ page.author }} | {{ page.date | date_to_string }} </p>

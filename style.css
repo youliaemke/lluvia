@@ -383,7 +383,7 @@ div a img:hover {
 
 .earth {
   padding: 0.5rem;
-  font-size: 1.3rem;;
+  font-size: 1.4rem;;
 }
 
 .language {
@@ -398,7 +398,7 @@ div a img:hover {
   top: 1;
   border-radius: 0 0 3rem 3rem;
   z-index: 3;
-  padding: 0.3rem;
+  padding: 3px;
 }
 
 .language a {
@@ -425,7 +425,7 @@ header {
 
 .keywords-index {
   position: absolute;
-  bottom: 10rem;
+  bottom: 3rem;
   right: 3rem;
 }
 
@@ -438,7 +438,7 @@ header {
 .index-4-word-2 { 
   position: absolute; 
   bottom: 17rem;
-  right: 14rem;
+  right: 10rem;
 }
 
 
