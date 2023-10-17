@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abdominale Massage / Update
+title: Abdominale Massage
 language: deutsch
 description: >-
   Eine Bauchmassage oder Gebärmutter Massage ist für mich wie eine sanfte und
