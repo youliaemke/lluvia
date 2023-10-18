@@ -532,6 +532,20 @@ footer nav a {
   padding: 0.2rem;
 }
 
+.mobile-menu .dropdown-content-mobile a {
+  margin-left: 1rem;
+  font-size: 0.9rem;
+}
+
+.inline-link {
+  text-decoration: underline;
+
+}
+
+.inline-link:hover {
+  color: var(--medium);
+}
+
 /* ------------ Burger Button / Mobile Menu Styles -------------- */
 
 .burger-button {
