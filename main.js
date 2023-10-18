@@ -1,8 +1,24 @@
+
+
+
 $( document ).ready(function() {
 
 	$(".burger-button").click(function(){
 		$(".burger-button").toggleClass("active");
 		$(".mobile-menu").toggleClass("active");
+	});
+
+
+	lightGallery(document.getElementById('lightgallery'), {
+		speed: 300,
+		download: false,
+		animateThumb: true,
+		thumbnail: true,
+		zoomFromOrigin: true,
+		allowMediaOverlap: true,
+		toggleThumb: true,
+		closeOnTap: true
+	
 	});
 
 
@@ -29,11 +45,11 @@ $( document ).ready(function() {
 		  }
 		]
 	  });
-
-
 	  
 
 });
+
+
 
 //  Image Lazy loading
 document.addEventListener("DOMContentLoaded", function() {

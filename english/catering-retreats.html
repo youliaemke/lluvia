@@ -2,6 +2,7 @@
 layout: default
 title: Catering Retreats
 language: english
+pop-up: true
 seo:
   title:
   description:
@@ -9,6 +10,20 @@ seo:
   twitter_card:
   keywords:
   hide-from-google: false
+popup-gallery: true
+gallery-background: bg-white
+gallery:
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-1.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-2.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-3.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-4.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-5.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-6.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-7.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-8.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-9.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-10.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-11.jpg
 ---
 <section>
   <section class="padded-2 capped-width grid-spaceAround-middle">
@@ -84,3 +99,23 @@ seo:
     </div>
   </section>
 </section>
+
+
+{% if page.popup-gallery == true %}
+
+
+<section class="padded {{page.gallery-background}}">
+    <div class="portfolio" id="lightgallery">
+
+        {% for item in page.gallery %}
+
+        <a class="gallery-container" href="{{item.pop-up-background_image}}"> 
+            <img data-src="{{item.pop-up-background_image}}" class="lazy">
+        </a>
+
+        {% endfor %}
+
+    </div>
+</section>
+
+{% endif %}

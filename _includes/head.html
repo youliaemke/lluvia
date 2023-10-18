@@ -21,7 +21,7 @@
 {% endif %}
 
 
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="032fb59f-9d71-4ef3-a035-00540da1ed57" data-blockingmode="auto" type="text/javascript"></script>
+
 
 <!------------  Social media sharing META Tags ------------>
 <meta property="og:title" content="{{ page.title | default: site.data.site-settings.seo.title }}">
@@ -45,6 +45,13 @@
 <meta name="msapplication-config" content="/icons/favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 
+
+<!-- Lightgallery for pop-ups  -->
+{% if page.pop-up == true %}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.1.8/css/lightgallery-bundle.min.css" integrity="sha512-7xAjdVc23n18sYEAZKa79271IRUS1XzylIyJ8feyXvjrbbr4oId92993EiGTAP63Ob6KplRnmbNmBOg6bpLjYw==" crossorigin="anonymous" referrerpolicy="no-referrer" media="print" onload="this.media='all'; this.onload=null;" />
+
+{% endif %}
 
 
 <!------------ Pinterest Meta Tags ------------>

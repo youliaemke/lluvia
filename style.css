@@ -350,6 +350,16 @@ div a img:hover {
   max-width: 100%;
 }
 
+
+.gallery-container div a img {
+  max-width: 100%;
+}
+
+.gallery-container div a img:hover {
+  max-width: 100%;
+}
+
+
 .button { 
     display: inline-block;
     text-decoration: none;
@@ -722,6 +732,58 @@ footer nav a {
 
 
 /* ------------ Contact Forms  ----------------------- */
+
+/* ------------ Lightgallery Nae  ----------------------- */
+
+.portfolio {
+  column-count: 3;
+  column-gap: 5px;
+}
+
+/* Pop Up Light Gallery */
+
+.lg-backdrop.in {
+  opacity: 0.94;
+}
+
+.lg-backdrop {
+  background-color: var(--light);
+}
+
+.lg-toolbar .lg-icon {
+  color: var(--dark-text);
+}
+
+.lg-counter {
+  color: var(--dark-text);
+}
+
+.lg-next, .lg-prev {
+  color: var(--dark-text);
+  background-color: transparent;
+}
+
+.lg-next {
+  right: 8px;
+}
+
+.lg-prev {
+  left: 8px;
+}
+
+.lg-sub-html {
+  background-color: var(--light);
+}
+
+.lg-outer .lg-object{
+  max-height: 90vh;
+  max-width: 80vw;
+}
+
+.lg-next:hover:not(.disabled), .lg-prev:hover:not(.disabled) {
+  color: var(--dark-text);
+}
+
 
 /* ------------ Form Styles  ----------------------- */
 select {
