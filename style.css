@@ -351,11 +351,11 @@ div a img:hover {
 }
 
 
-.gallery-container div a img {
+.gallery-container img {
   max-width: 100%;
 }
 
-.gallery-container div a img:hover {
+.gallery-container img:hover {
   max-width: 100%;
 }
 
@@ -781,7 +781,12 @@ footer nav a {
 }
 
 .lg-next:hover:not(.disabled), .lg-prev:hover:not(.disabled) {
-  color: var(--dark-text);
+  color: var(--medium);
+  border: 0;
+}
+
+.lg-toolbar .lg-icon:hover {
+  color: var(--medium);
 }
 
 
