@@ -975,7 +975,9 @@ hr.long.center {
 
 
 
-
+.calendly-inline-widget {
+  min-width: 1000px;
+}
 
 
 
@@ -1160,5 +1162,17 @@ hr.long.center {
       right: -2.4rem;
       font-size: 0.85rem;
     }
+
+    .portfolio {
+      column-count: 1;
+      column-gap: 5px;
+    }
+
+    .xs-margin-b-1 {
+      margin-bottom: 1rem;
+    }
+
+    .xs-margin-b-0 { margin-bottom: 0; }
+    .xs-padded-b-1 { padding-bottom: 1rem;}
 
 }
