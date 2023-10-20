@@ -683,7 +683,7 @@ footer nav a {
   background-color: var(--medium);
   padding: 0 5% 5% 5%;
   position: fixed; 
-  z-index: 1;
+  z-index: 4;
   top: 0;
   right: -100%;
   left: 100vw;
