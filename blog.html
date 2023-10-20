@@ -31,10 +31,12 @@ seo:
 
         
 
-            {% for post in site.posts limit:12 %}
+            {% for post in site.posts limit: 12 %}
+                {% if post.language == 'deutsch' %}
 
                     {% include post-loop-item-square.html %}
 
+                {% endif %}
             {% endfor %}
 
     </div>
