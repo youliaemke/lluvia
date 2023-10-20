@@ -10,7 +10,7 @@ description: >-
   alles, was du tust."
 author: Lluvia
 featured: false
-featured_image: food-iphone-foto.jpeg
+featured_image: /images/blog/food-iphone-foto.jpeg
 seo:
   title:
   description:

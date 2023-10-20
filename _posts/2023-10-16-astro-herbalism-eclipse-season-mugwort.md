@@ -10,7 +10,7 @@ description: >-
   finden. 
 author: Lluvia
 featured: false
-featured_image: blog-3.jpg
+featured_image: /uploads/blog-3.jpg
 seo:
   title:
   description:
