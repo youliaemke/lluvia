@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Astro / Kräuterkunde: Sonnen-finsternis & Beifuss'
+title: 'Astro / Kräuterkunde'
 language: deutsch
 description: >-
   Die Zeit der Sonnenfinsternis kann eine Reihe von Gefühlen und Erfahrungen
