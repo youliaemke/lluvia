@@ -1,0 +1,14 @@
+<div class="col-4_sm-6_xs-12 post-item-blog-page padded-1">
+    <a href="{{ post.url }}" class="bg-image lazy square round-edges-1" style="background-image: url('{{post.featured_image}}');"></a>
+    <div class="padded-t-1 padded-b-1">
+        
+
+        <span class="post-info">by {{post.author}} // </span> 
+        <span class="post-info"> {{post.date | date: "%m.%d.%Y" }} </span>
+
+        <h2 class="margin-t-1 lindsey"> {{ post.title }} </h2>
+        <p> {{ post.description }} </p>
+        <a href="{{ post.url }}" class="subtle-button"> Weiterlesen </a>
+
+    </div>
+</div>
