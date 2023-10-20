@@ -10,7 +10,7 @@ description: >-
   oft unbemerkt bleibt.
 author: Lluvia
 featured: false
-featured_image: /images/blog/blog-1.jpg
+featured_image: blog-1.jpg
 seo:
   title:
   description:
