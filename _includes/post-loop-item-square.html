@@ -1,6 +1,3 @@
-
-<!-- Since the post loop item uses a column class, make sure the parent container has a grid -->
-
 <div class="col-4_sm-6_xs-12 post-item-blog-page padded-1">
     <a href="{{ post.url }}" class="bg-image lazy square round-edges-1" style="background-image: url('{{post.featured_image}}');"></a>
     <div class="padded-t-1 padded-b-1">
@@ -15,13 +12,3 @@
 
     </div>
 </div>
-
-
-<!-- Want the categories to link to their archive page? Replace the span with a link like this. 
-
-{% for item in post.categories %}
-    <span class="tag"> {{item}} </span>
-{% endfor %}
-
-
--->
