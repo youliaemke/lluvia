@@ -966,6 +966,10 @@ button:hover {
   color: var(--dark-text);
 }
 
+.archive div a.post-item {
+  padding: 5%;
+}
+
 /* Individual Elements */
 
 .tag {
