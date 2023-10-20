@@ -30,7 +30,7 @@ seo:
     <div class="capped-width padded padded-t-1 grid-center">
 
         
-        {% for post in site.posts limit:12 %}
+        {% for post in site.posts limit: 12 %}
             {% if post.language == 'english' %}
                 {% include post-loop-item-square.html %}
             {% endif %}
