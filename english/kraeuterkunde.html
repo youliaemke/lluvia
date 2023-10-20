@@ -3,7 +3,7 @@ layout: default
 title: Herbology
 language: english
 slick-slider: false
-pop-up: false
+pop-up: true
 seo:
   title:
   description:
@@ -11,6 +11,19 @@ seo:
   twitter_card:
   keywords:
   hide-from-google: false
+gallery-toggle: false
+gallery:
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-1.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-2.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-3.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-4.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-5.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-6.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-7.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-8.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-9.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-10.jpg
+  - pop-up-background_image: /images/catering-retreats/gallery/gallery-11.jpg
 ---
 <section class="bg-light">
   <section class="padded-2 xs-padded-0 capped-width">
@@ -43,3 +56,20 @@ seo:
   </div>
 </section>
 
+
+{% if page.gallery-toggle == 'true' %}
+<section class="padded {{page.gallery-background}}">
+  <h2 class="editable lindsey center tworem margin-b-2 padded-b-2 xs-margin-b-0 xs-padded-b-1"> Bildergalerie </h2>
+  <div class="portfolio" id="lightgallery">
+
+      {% for item in page.gallery %}
+
+      <a class="gallery-container" href="{{item.pop-up-background_image}}"> 
+          <img data-src="{{item.pop-up-background_image}}" class="lazy" />
+      </a>
+
+      {% endfor %}
+
+  </div>
+</section>
+{% endif %}
