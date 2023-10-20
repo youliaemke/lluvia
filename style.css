@@ -962,6 +962,9 @@ button:hover {
   text-decoration: none;
 }
 
+.post-item:hover {
+  color: var(--dark-text);
+}
 
 /* Individual Elements */
 
