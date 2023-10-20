@@ -33,7 +33,7 @@ seo:
         {% for post in site.posts limit: 12 %}
             {% if post.language == 'english' %}
                 <div class="col-4_sm-6_xs-12 post-item-blog-page padded-1">
-                    <a href="{{ post.url }}" class="bg-image lazy square round-edges-1" style="background-image: url('{{post.featured_image}}');"></a>
+                    <a href="{{ post.url }}" class="bg-image lazy square round-edges-1" style="background-image: url({{post.featured_image}});"></a>
                     <div class="padded-t-1 padded-b-1">
                         
                 
