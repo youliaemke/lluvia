@@ -864,7 +864,7 @@ button {
     background-color: transparent;
     cursor: pointer;
     font-weight: 400;
-    font-family: 'Jost', sans-serif;
+    font-family: 'Lora', sans-serif;
     padding: 0.5rem 1rem;
     color: var(--medium);
 }
