@@ -320,6 +320,12 @@ a {
     text-decoration: none;
 }
 
+.medium-hover:hover {
+  color: var(--medium);
+}
+
+.medium-hover h2 { margin-bottom: 1.2rem !important; }
+
 a.no-hover:hover {
   color: var(--dark-text);
 }
@@ -451,7 +457,7 @@ header {
 
 .keywords-index {
   position: absolute;
-  bottom: 3rem;
+  bottom: 1.5rem;
   right: 3rem;
 }
 
@@ -1065,7 +1071,7 @@ hr.long.center {
 
   .keywords-index {
     right: 1.5rem;
-    bottom: 2rem;
+    bottom: 0;
   }
 
   .fourrem {
