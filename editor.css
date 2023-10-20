@@ -21,14 +21,14 @@ img.one-half-image {
 img.float-left-image {
     max-width:50%;
     float: left;
-    margin: 1rem 2rem 1rem -2rem;
-     border-radius: 2rem;
+    margin: 1rem 2rem 1rem 0;
+    border-radius: 2rem;
 }
 
 img.float-right-image {
     max-width:50%;
     float: right;
-    margin: 1rem -2rem 1rem 2rem;
+    margin: 1rem 0 1rem 2rem;
     border-radius: 2rem;
 }
 

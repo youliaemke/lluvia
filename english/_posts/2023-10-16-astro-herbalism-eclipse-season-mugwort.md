@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Astro/Herbalism: Eclipse Season & Mugwort'
+title: 'Astro / Herbalism: Eclipse Season & Mugwort'
 language: english
 description: >-
   Eclipse season can evoke a range of feelings and experiences, both on a
