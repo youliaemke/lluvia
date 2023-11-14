@@ -880,6 +880,31 @@ button:hover {
 
 /* ------------ Slick Slider elements  ----------------------- */
 
+.youtube-container { 
+	max-width: 50%;
+}
+
+/* This is fancy CSS that you haven't learnt yet. No need to understand it yet, but you're welcome to copy & paste */
+
+.embed-container { 
+	position: relative;
+	padding-bottom: 56.25%; 
+	height: 0; 
+	overflow: hidden; 
+	max-width: 100%; 
+} 
+
+.embed-container iframe, 
+.embed-container object, 
+.embed-container embed { 
+	position: absolute; 
+  	top: 0; 
+  	left: 0; 
+  	width: 100%; 
+  	height: 100%; 
+}
+
+
 .testimonial-box-md {
   border: 2px solid var(--medium);
 }
