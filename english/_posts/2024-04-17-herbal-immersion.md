@@ -25,7 +25,7 @@ _comments:
 
 &nbsp;
 
-Are you ready to embark on a journey into the enchanting world Herbs & Sisterhood? If so, I have an invitation that's bound to ignite your senses and nourish your soul.
+Are you ready to embark on a journey into the enchanting world of Herbs & Sisterhood? If so, I have an invitation that's bound to ignite your senses and nourish your soul.
 
 Picture this: nestled amidst the whispering trees and fragrant meadows and hills lies a haven of serenity, a sanctuary where the ancient wisdom of herbs beckons you to explore its depths. Welcome to our Herbal Immersion Retreat, where nature's bounty becomes our guide and healer.
 
