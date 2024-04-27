@@ -19,7 +19,9 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Hey there, fellow seekers of magic and wonder!
+#### Hey there, fellow seekers of magic and wonder!
+
+&nbsp;
 
 Are you ready to embark on a journey into the enchanting world Herbs & Sisterhood? If so, I have an invitation that's bound to ignite your senses and nourish your soul.
 
@@ -33,19 +35,29 @@ From dawn until dusk, we'll immerse ourselves in the art of herbal alchemy, craf
 
 But our journey doesn't end there. Amidst the tranquil beauty of our surroundings, we'll gather around the fire to share stories, songs, and laughter, forging bonds that transcend time and space. As the stars twinkle overhead, we'll honor the ancestors and spirits that walk beside us, weaving a tapestry of connection and belonging.
 
+##### Rustic Comfort Meets Nature's Symphony
+
 Your stay is defined by a connection with nature. Five fully insulated cabins, with two single beds, void of electricity, invites you to unwind completely.
 
 Simple to disconnect.
 
 ![](/uploads/inside-hydrangea-pod.jpg)
 
+##### Nourishment for Body and Soul
+
+In the heart of the field, a large outdoor fire circle, becomes a center for communal warmth. The Yurt, (soon to be a geodesic dome), offers indoor space with a log burner and electricity. Our reciprocal roof outdoor kitchen, with a round table seating 12, provides a space to share stories and laughter. Quench your thirst with the fresh filtered spring water from our land
+
 We will have 3 vegan plant based Meals. Our wonderful Chef Carmel will surprise us through weaving the Herbs we will working with, into our Food Experience. We will use the minimum amount of Oil, Salt and (hot) Spices to enhance our experience to connect deeper with our beloved Plant Spirits.
 
 Please feel free to bring your own Snacks, we absolutely welcome this. We would just ask you to stay away from highly processed Food as this will be counteracting with the Experience you can have.
 
+A detailed Time Table you will receive after Signing Up.
+
 Below you will find our Exchange Rate and more about our absolute incredible Team i am so stoked till my Bones to co-create with
 
 ![Whats included. Whats the Exchange](/uploads/6.jpg "Things you need to know")
+
+We will have a Cancellation Fee of 50% two Weeks before hand and 100% one Week prior.
 
 ![Meet the Facilitators](/uploads/5.jpg "Meet the Team and lovely Human Beings")
 
