@@ -7,9 +7,11 @@ description: >-
   September 
 author: Lluvia
 featured: false
-featured_image: /uploads/1.jpg
+featured_image: /uploads/cover-herbal.jpg
 seo:
-  title:
+  title: >-
+    herbal knowledge witchy earth wisdom nature connection retreat UK Womens
+    Retreat
   description:
   social_image:
   twitter_card:
