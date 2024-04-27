@@ -45,19 +45,23 @@ Simple to disconnect.
 
 ##### Nourishment for Body and Soul
 
-In the heart of the field, a large outdoor fire circle, becomes a center for communal warmth. The Yurt, (soon to be a geodesic dome), offers indoor space with a log burner and electricity. Our reciprocal roof outdoor kitchen, with a round table seating 12, provides a space to share stories and laughter. Quench your thirst with the fresh filtered spring water from our land
+In the heart of the field, a large outdoor fire circle, becomes a center for communal warmth. A Geodesic Dome, offers indoor space with a log burner and electricity. Our reciprocal roof outdoor kitchen, with a round table seating 12, provides a space to share stories and laughter. Quench your thirst with the fresh filtered spring water from our land
 
-We will have 3 vegan plant based Meals. Our wonderful Chef Carmel will surprise us through weaving the Herbs we will working with, into our Food Experience. We will use the minimum amount of Oil, Salt and (hot) Spices to enhance our experience to connect deeper with our beloved Plant Spirits.
+We will have 3 vegan plant based Meals, sometimes prepared directly on the Fire. Our wonderful Chef Carmel will surprise us through weaving the Herbs we will working with, into our Food Experience. We will use the minimum amount of Oil, Salt and (hot) Spices to enhance our experience to connect deeper with our beloved Plant Spirits.
 
 Please feel free to bring your own Snacks, we absolutely welcome this. We would just ask you to stay away from highly processed Food as this will be counteracting with the Experience you can have.
 
-A detailed Time Table you will receive after Signing Up.
+##### Facts & Facilitator's
 
-Below you will find our Exchange Rate and more about our absolute incredible Team i am so stoked till my Bones to co-create with
+Below you will find our Exchange Rate and more about our absolute incredible Team. I feel the excitement in my Bones to co-create with these magnificent Women.
 
 ![Whats included. Whats the Exchange](/uploads/6.jpg "Things you need to know")
 
-We will have a Cancellation Fee of 50% two Weeks before hand and 100% one Week prior.
+PLEASE NOTE:
+
+Cancellations within 30 days of retreat start will have a 100% Refund. After the 30 Days and till 14 Days prior you will receive a 50% Refund. After the 14 Days we will have No refunds.
+
+**And last but not least THE TEAM**
 
 ![Meet the Facilitators](/uploads/5.jpg "Meet the Team and lovely Human Beings")
 
