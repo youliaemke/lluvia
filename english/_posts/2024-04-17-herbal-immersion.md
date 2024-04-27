@@ -73,6 +73,8 @@ So, dear kindred spirits, if you feel the call of the wild and the whisper of th
 
 With love and herbal blessings,
 
+Jodie, Carmel and Lluvia
+
 ![](file:///C:/Users/Youlia/Downloads/Herbal%20Retreat%20Poster%2018%20x%2024%20&#40;1&#41;.pdf)
 
 Book Here:<br>[![more Information](file:///C:/Users/Youlia/Downloads/Herbal%20Retreat%20Poster%2018%20x%2024%20&#40;1&#41;.pdf)](/english/kontakt.html "Book here"){: target="_blank" rel="noopener"}
