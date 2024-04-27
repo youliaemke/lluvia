@@ -33,6 +33,22 @@ From dawn until dusk, we'll immerse ourselves in the art of herbal alchemy, craf
 
 But our journey doesn't end there. Amidst the tranquil beauty of our surroundings, we'll gather around the fire to share stories, songs, and laughter, forging bonds that transcend time and space. As the stars twinkle overhead, we'll honor the ancestors and spirits that walk beside us, weaving a tapestry of connection and belonging.
 
+Your stay is defined by a connection with nature. Five fully insulated cabins, with two single beds, void of electricity, invites you to unwind completely.
+
+Simple to disconnect.
+
+![](/uploads/inside-hydrangea-pod.jpg)
+
+We will have 3 vegan plant based Meals. Our wonderful Chef Carmel will surprise us through weaving the Herbs we will working with, into our Food Experience. We will use the minimum amount of Oil, Salt and (hot) Spices to enhance our experience to connect deeper with our beloved Plant Spirits.
+
+Please feel free to bring your own Snacks, we absolutely welcome this. We would just ask you to stay away from highly processed Food as this will be counteracting with the Experience you can have.
+
+Below you will find our Exchange Rate and more about our absolute incredible Team i am so stoked till my Bones to co-create with
+
+![Whats included. Whats the Exchange](/uploads/6.jpg "Things you need to know")
+
+![Meet the Facilitators](/uploads/5.jpg "Meet the Team and lovely Human Beings")
+
 So, dear kindred spirits, if you feel the call of the wild and the whisper of the herbs, join us for an unforgettable Herbal Immersion Retreat. Let's journey together into the heart of nature, where magic awaits at every turn.
 
 With love and herbal blessings,
