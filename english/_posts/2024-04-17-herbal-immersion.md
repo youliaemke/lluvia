@@ -7,7 +7,7 @@ description: >-
   September 
 author: Lluvia
 featured: false
-featured_image: /images/blog/blog-1.jpg
+featured_image: /uploads/1.jpg
 seo:
   title:
   description:
