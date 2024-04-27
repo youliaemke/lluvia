@@ -47,7 +47,9 @@ Simple to disconnect.
 
 ##### Nourishment for Body and Soul
 
-In the heart of the field, a large outdoor fire circle, becomes a center for communal warmth. A Geodesic Dome, offers indoor space with a log burner and electricity. Our reciprocal roof outdoor kitchen, with a round table seating 12, provides a space to share stories and laughter. Quench your thirst with the fresh filtered spring water from our land
+In the heart of the field, a large outdoor fire circle, becomes a center for communal warmth. A Geodesic Dome, offers indoor space with a log burner and electricity. Our reciprocal roof outdoor kitchen, with a round table seating 12, provides a space to share stories and laughter. Quench your thirst with the fresh filtered spring water from our land.
+
+![](/uploads/kitchen-large-pano.jpg)
 
 We will have 3 vegan plant based Meals, sometimes prepared directly on the Fire. Our wonderful Chef Carmel will surprise us through weaving the Herbs we will working with, into our Food Experience. We will use the minimum amount of Oil, Salt and (hot) Spices to enhance our experience to connect deeper with our beloved Plant Spirits.
 
