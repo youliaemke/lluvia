@@ -1011,6 +1011,10 @@ button:hover {
   color: var(--dark-text);
 }
 
+.blog-content a:hover {
+  color: var(--medium);
+}
+
 .archive div a.post-item {
   padding: 5%;
 }
