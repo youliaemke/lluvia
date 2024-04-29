@@ -77,4 +77,4 @@ Jodie, Carmel and Lluvia
 
 ![](file:///C:/Users/Youlia/Downloads/Herbal%20Retreat%20Poster%2018%20x%2024%20&#40;1&#41;.pdf)
 
-Book Here:<br>[![more Information](file:///C:/Users/Youlia/Downloads/Herbal%20Retreat%20Poster%2018%20x%2024%20&#40;1&#41;.pdf)](/english/kontakt.html "Book here"){: target="_blank" rel="noopener"}
+Book Here:<br>[more information](https://rainandrosemary.com/english/kontakt){: target="_blank" rel="noopener"}
