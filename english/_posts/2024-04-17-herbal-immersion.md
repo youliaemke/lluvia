@@ -51,6 +51,10 @@ In the heart of the field, a large outdoor fire circle, becomes a center for com
 
 ![](/uploads/kitchen-large-pano.jpg)
 
+![](/uploads/whatsapp-image-2024-04-28-at-18-09-48-2.jpeg)
+
+![](/uploads/whatsapp-image-2024-04-28-at-18-09-45.jpeg)
+
 We will have 3 vegan plant based Meals, sometimes prepared directly on the Fire. Our wonderful Chef Carmel will surprise us through weaving the Herbs we will working with, into our Food Experience. We will use the minimum amount of Oil, Salt and (hot) Spices to enhance our experience to connect deeper with our beloved Plant Spirits.
 
 Please feel free to bring your own Snacks, we absolutely welcome this. We would just ask you to stay away from highly processed Food as this will be counteracting with the Experience you can have.
