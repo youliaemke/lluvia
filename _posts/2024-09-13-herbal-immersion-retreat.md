@@ -67,6 +67,8 @@ BITTE BEACHTEN:
 
 Bei Stornierungen innerhalb von 30 Tagen vor Beginn des Retreats werden 100% der Kosten zurückerstattet. Nach den 30 Tagen und bis zu 14 Tagen vor Beginn des Retreats erhalten Sie eine Rückerstattung von 50%. Nach den 14 Tagen gibt es keine Rückerstattung mehr.
 
+Bitte beachte auch das dieses Retreat auf Englisch gehalten wird. Gerne unterstütze ich dich bei Übersetzungen für die Kräuterkunde Klasse.
+
 Und zu guter Letzt **DAS TEAM**
 
 ![](/uploads/5.jpg)
@@ -75,4 +77,6 @@ Also, liebe Gleichgesinnte, wenn du den Ruf der Wildnis und das Flüstern der Kr
 
 Mit Liebe und Kräutersegen,
 
-Jodie, Carmel und Lluvia<br>
+Jodie, Carmel und Lluvia
+
+<br>
