@@ -81,12 +81,10 @@ With love and herbal blessings,
 
 Jodie, Carmel and Lluvia
 
-![](file:///C:/Users/Youlia/Downloads/Herbal%20Retreat%20Poster%2018%20x%2024%20&#40;1&#41;.pdf)
-
 Book Here:<br>more information
 
 or directly here:
 
-<div class="cms-embed">https://dandelion.events/e/herbalimmersion</div>
+https://dandelion.events/e/herbalimmersion
 
 &nbsp;
