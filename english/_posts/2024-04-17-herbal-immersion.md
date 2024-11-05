@@ -7,7 +7,7 @@ description: >-
   September. POSTPONED new Dates are 19th - 22nd September 2025
 author: Lluvia
 featured: false
-featured_image: /uploads/cover-herbal.jpg
+featured_image: /uploads/herbal-retreat-poster-18-x-24.jpg
 seo:
   title: >-
     herbal knowledge witchy earth wisdom nature connection retreat UK Womens
