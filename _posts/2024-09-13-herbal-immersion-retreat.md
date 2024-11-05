@@ -7,7 +7,7 @@ description: >-
   September in der UK.
 author: Lluvia
 featured: false
-featured_image: /uploads/1.jpg
+featured_image: /uploads/herbal-retreat-poster-18-x-24.jpg
 seo:
   title: Herbal Immersion Retreat
   description: >-
@@ -57,7 +57,7 @@ Wir werden 3 vegane, pflanzliche Mahlzeiten zu uns nehmen, die manchmal direkt a
 
 Ihr könnt gerne eure eigenen Snacks mitbringen, wir begrüßen das sehr. Wir möchten euch nur bitten, euch von stark verarbeiteten Lebensmitteln fernzuhalten, da diese der Erfahrung, die Sie machen können, entgegenwirken werden.
 
-**Fakten & Facilitator's**
+**Fakten & Facilitator’s**
 
 Unten findest du die Preise und mehr über unser unglaubliches Team. Ich fühle die Aufregung in meinen Knochen, mit diesen großartigen Frauen zusammen zu arbeiten.
 
