@@ -7,7 +7,7 @@ description: >-
   September in der UK.
 author: Lluvia
 featured: false
-featured_image: /uploads/herbal-retreat-poster-18-x-24.jpg
+featured_image: /uploads/whatsapp-image-2025-02-02-at-19-46-21.jpeg
 seo:
   title: Herbal Immersion Retreat
   description: >-
