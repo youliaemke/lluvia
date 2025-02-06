@@ -61,7 +61,7 @@ Ihr könnt gerne eure eigenen Snacks mitbringen, wir begrüßen das sehr. Wir m�
 
 Unten findest du die Preise und mehr über unser unglaubliches Team. Ich fühle die Aufregung in meinen Knochen, mit diesen großartigen Frauen zusammen zu arbeiten.
 
-![](/uploads/6.jpg)
+![](/uploads/whatsapp-image-2024-11-07-at-12-52-41-1.jpeg)
 
 BITTE BEACHTEN:
 
