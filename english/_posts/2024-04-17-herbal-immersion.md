@@ -35,6 +35,8 @@ Join us for a soul-stirring adventure filled with potion-making, herb harvesting
 
 From dawn until dusk, we’ll immerse ourselves in the art of herbal alchemy, crafting potions and salves infused with the healing energies of the earth. Through hands-on workshops and experiential learning and daily Ceremonies you’ll uncover the ancient rituals and sacred practices that connect us to the natural world and awaken our innate wisdom.
 
+[https://www.youtube.com/watch?v=iCzQy\_jnKWo](https://www.youtube.com/watch?v=iCzQy_jnKWo "Iachusol Enaid Tour")
+
 But our journey doesn’t end there. Amidst the tranquil beauty of our surroundings, we’ll gather around the fire to share stories, songs, and laughter, forging bonds that transcend time and space. As the stars twinkle overhead, we’ll honor the ancestors and spirits that walk beside us, weaving a tapestry of connection and belonging.
 
 ##### Rustic Comfort Meets Nature’s Symphony
@@ -65,7 +67,7 @@ Please feel free to bring your own Snacks, we absolutely welcome this. We would 
 
 Below you will find our Exchange Rate and more about our absolute incredible Team. I feel the excitement in my Bones to co-create with these magnificent Women.
 
-![Whats included. Whats the Exchange](/uploads/6.jpg "Things you need to know")
+&nbsp;
 
 PLEASE NOTE:
 
