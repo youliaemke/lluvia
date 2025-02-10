@@ -87,8 +87,8 @@ Jodie, Carmel and Lluvia
 
 Book Here:<br>more information
 
-or directly here:
+&nbsp;
 
-https://dandelion.events/e/herbalimmersion
+&nbsp;
 
 &nbsp;
