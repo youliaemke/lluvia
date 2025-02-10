@@ -3,8 +3,8 @@ layout: post
 title: Herbal Immersion
 language: english
 description: >-
-  Here you will find more Detail about our upcoming Herbal Immersion Retreat in
-  September. POSTPONED new Dates are 19th - 22nd September 2025
+  Here you will find more Detail about our upcoming Herbal Immersion Retreat
+  from 29th August - 1st September in the UK, Wales
 author: Lluvia
 featured: false
 featured_image: /uploads/whatsapp-image-2025-02-02-at-19-46-21-1.jpeg
