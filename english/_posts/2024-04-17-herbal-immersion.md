@@ -77,7 +77,7 @@ Cancellations within 30 days of retreat start will have a 100% Refund. After the
 
 **And last but not least THE TEAM**
 
-![Meet the Facilitators](/uploads/5.jpg "Meet the Team and lovely Human Beings")
+![Meet the Facilitators](/uploads/4.png "Meet the Team and lovely Human Beings")
 
 So, dear kindred spirits, if you feel the call of the wild and the whisper of the herbs, join us for an unforgettable Herbal Immersion Retreat. Let’s journey together into the heart of nature, where magic awaits at every turn.
 
