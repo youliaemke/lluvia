@@ -79,8 +79,6 @@ Below you will find our Exchange Rate and more about our absolute incredible Tea
 
 ![](/uploads/herbal-immersion-1.png)
 
-&nbsp;
-
 PLEASE NOTE:
 
 Cancellations within 30 days of retreat start will have a 100% Refund. After the 30 Days and till 14 Days prior you will receive a 50% Refund. After the 14 Days we will have No refunds.
