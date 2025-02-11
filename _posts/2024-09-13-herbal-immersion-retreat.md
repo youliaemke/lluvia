@@ -79,7 +79,7 @@ Ihr könnt gerne eure eigenen Snacks mitbringen, wir begrüßen das sehr. Wir m�
 
 Unten findest du die Preise und mehr über unser unglaubliches Team. Ich fühle die Aufregung in meinen Knochen, mit diesen großartigen Frauen zusammen zu arbeiten.
 
-![](/uploads/whatsapp-image-2024-11-07-at-12-52-41-1.jpeg)
+![](/uploads/herbal-immersion-1.png)
 
 BITTE BEACHTEN:
 
@@ -89,7 +89,7 @@ Bitte beachte auch das dieses Retreat auf Englisch gehalten wird. Gerne unterst�
 
 Und zu guter Letzt **DAS TEAM**
 
-![](/uploads/5.jpg)
+![](/uploads/4.png)
 
 Also, liebe Gleichgesinnte, wenn du den Ruf der Wildnis und das Flüstern der Kräuter spürst, komm mit uns zu einem unvergesslichen Herbal Immersion Retreat. Lasst uns gemeinsam in das Herz der Natur reisen, wo Magie auf Schritt und Tritt wartet.
 
