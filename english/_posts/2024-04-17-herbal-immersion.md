@@ -93,7 +93,7 @@ With love and herbal blessings,
 
 Jodie, Carmel and Lluvia
 
-Book Here:<br>[more information]()
+Book Here:<br>[https://rainandrosemary.com/english/kontakt]()
 
 &nbsp;
 
