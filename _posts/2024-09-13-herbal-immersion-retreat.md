@@ -29,15 +29,21 @@ Seid ihr bereit für eine Reise in die magische Welt der Kräuter und der Schwes
 
 Stellt euch vor: Inmitten flüsternder Bäume, duftender Wiesen und Hügel liegt eine Oase der Ruhe, ein Heiligtum, in dem die uralte Weisheit der Kräuter dazu einlädt, ihre Tiefen zu erforschen.
 
-Willkommen zu unserem Herbal-Immersions-Retreat, wo die Gaben der Natur zu unseren Führern und Heilern werden.
+Willkommen zu unserem Herbal-Immersions-Retreat, wo die Gaben der Natur zu unseren Wegweisern und Heilern werden.
 
 Klickt hier für einen Blick aus der Vogelperspektive:
 
 [https://www.youtube.com/watch?v=iCzQy\_jnKWo](https://www.youtube.com/watch?v=iCzQy_jnKWo "Iachusol Enaid Tour")
 
-Begleiten Sie uns auf ein Abenteuer, das die Seele berührt, während wir unter der sanften Anleitung erfahrener Kräuterkundiger und weiser Hüter der Erde Tinkturen herstellen, Kräuter sammeln und kraftvolle Rituale durchführen. Gemeinsam tauchen wir ein in die Geheimnisse der Pflanzenwelt und entschlüsseln die Magie, die in jedem Blatt, jeder Blüte und jeder Wurzel verborgen liegt.
+&nbsp;
 
-Von Sonnenaufgang bis Sonnenuntergang tauchen wir in die Kunst der Kräuteralchemie ein und stellen Tinkturen und Salben her, die von den heilenden Energien der Erde durchdrungen sind. Durch praktische Workshops, Erfahrungslernen und tägliche Zeremonien werden wir die alten Rituale und heiligen Praktiken entdecken, die uns mit der natürlichen Welt verbinden und unsere angeborene Weisheit erwecken.
+![Medicine Wheel Garden](/uploads/mandala-2022-1.jpeg)![](/uploads/iachusol-enaid-towards-valley-1.jpg)![](/uploads/tree-in-corner-of-valley-2.jpg)
+
+Begleite uns auf ein Abenteuer, das deine Seele berührt. Unter der sanften Anleitung erfahrener Kräuterkundiger und weiser Hüter der Erde wirst du Tinkturen herstellen, Kräuter sammeln und kraftvolle Rituale durchführen. Gemeinsam tauchen wir ein in die Geheimnisse der Pflanzenwelt und entschlüsseln die Magie, die in jedem Blatt, jeder Blüte und jeder Wurzel verborgen liegt.
+
+Wir tauchen tief ein in die Kunst der Kräuteralchemie und stellen Tinkturen oder Salben her, die von den heilenden Energien der Erde durchdrungen sind. Durch praktische Workshops, Erfahrungslernen und tägliche Zeremonien entdecken wir die alten Rituale und heiligen Praktiken, die uns mit der natürlichen Welt verbinden und unsere angeborene Weisheit erwecken.
+
+Inmitten der malerischen Landschaft von Wales, umgeben von unberührter Natur, bieten wir dir einen Raum, um dich mit dir selbst, der Erde und den Flüstern des Unsichtbaren zu verbinden. Unsere Retreats sind eine Einladung, die Magie der Pflanzenwelt zu erleben und deine eigene innere Weisheit zu entfalten.
 
 Mit 3 Pflanzen Begleiter reisen wir durch die miteinander verbundenen Reiche von Geist, Seele und Körper. In diesem harmonischen Dreiklang bietet jede dieser Pflanzen ihre einzigartige Essenz an, um unsere Reise zu leiten.
 
@@ -47,15 +53,11 @@ Mit 3 Pflanzen Begleiter reisen wir durch die miteinander verbundenen Reiche von
 
 ✨Rose (Körper): Rose verkörpert die Essenz der Liebe und des Mitgefühls. Sie lädt ein tiefes Gefühl von Frieden und Harmonie in unser physisches Wesen ein und erlaubt uns, uns tief mit uns selbst und anderen zu verbinden.
 
-&nbsp;
-
-![Medicine Wheel Garden](/uploads/mandala-2022-1.jpeg)![](/uploads/iachusol-enaid-towards-valley-1.jpg)![](/uploads/tree-in-corner-of-valley-2.jpg)
-
 Aber unsere Reise ist noch nicht zu Ende. Inmitten der ruhigen Schönheit unserer Umgebung versammeln wir uns um das Feuer, um Geschichten, Lieder und Lachen zu teilen und Verbindungen zu knüpfen, die über Zeit und Raum hinausgehen. Während die Sterne über uns funkeln, ehren wir die Ahnen und Geister, die neben uns wandeln, und weben einen Teppich der Verbundenheit und Zugehörigkeit.
 
 **Rustikaler Komfort trifft auf die Symphonie der Natur**
 
-Dein Aufenthalt ist geprägt von der Verbundenheit mit der Natur. Fünf vollständig isolierte Hütten mit zwei Einzelbetten mit Stromanschluss laden Sie ein, sich völlig zu entspannen.
+Dein Aufenthalt ist geprägt von der Verbundenheit mit der Natur. Fünf vollständig isolierte Hütten mit zwei Einzelbetten mit Stromanschluss laden dich ein, sich völlig zu entspannen.
 
 Einfach abschalten.
 
@@ -63,13 +65,13 @@ Einfach abschalten.
 
 **Nahrung für Körper und Seele**
 
-Im Herzen des Feldes befindet sich ein großer Feuerkreis im Freien, der zum Zentrum der gemeinsamen Wärme wird. Unsere beidseitig überdachte Außenküche mit einem runden Tisch für 12 Personen bietet Platz für gemeinsames Lachen und Austausch. Lösche deinen Durst mit dem frischen, gefilterten Quellwasser direkt vom Land.
+Im Herzen des Feldes befindet sich ein großer Feuerkreis im Freien, der zum Zentrum der gemeinsamen Wärme wird. Unsere beidseitig überdachte Außenküche mit einem runden Tisch bietet Platz für gemeinsames Lachen und Austausch. Lösche deinen Durst mit dem frischen, gefilterten Quellwasser direkt vom Land.
 
 ![](/uploads/kitchen-large-pano.jpg)![](/uploads/whatsapp-image-2024-04-28-at-18-09-48-2.jpeg)![](/uploads/whatsapp-image-2024-04-28-at-18-09-45.jpeg)
 
 Diese episch gebaute geodätische Kuppel bietet einen Innenraum mit einem Holzofen und Strom.
 
-Wir werden 3 vegane, pflanzliche Mahlzeiten zu uns nehmen, die manchmal direkt auf dem Feuer zubereitet werden. Unsere wunderbare Köchin Carmel wird uns überraschen, indem sie die Kräuter, mit denen wir arbeiten, in unser Essenserlebnis einwebt. Wir werden nur ein Minimum an Öl, Salz und (scharfen) Gewürzen verwenden, um unsere Erfahrung zu verbessern und uns tiefer mit unseren geliebten Pflanzengeistern zu verbinden.
+Wir werden 3 vegane, pflanzliche Mahlzeiten zu uns nehmen, die oft direkt auf dem Feuer zubereitet werden. Unsere wunderbare Köchin Carmel wird uns überraschen, indem sie die Kräuter, mit denen wir arbeiten, in unser Essenserlebnis einwebt. Wir werden nur ein Minimum an Öl, Salz und (scharfen) Gewürzen verwenden, um unsere Erfahrung zu verbessern und uns tiefer mit unseren geliebten Pflanzengeistern zu verbinden.
 
 Ihr könnt gerne eure eigenen Snacks mitbringen, wir begrüßen das sehr. Wir möchten euch nur bitten, euch von stark verarbeiteten Lebensmitteln fernzuhalten, da diese der Erfahrung, die Sie machen können, entgegenwirken werden.
 
