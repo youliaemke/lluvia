@@ -77,7 +77,7 @@ Please feel free to bring your own Snacks, we absolutely welcome this. We would 
 
 Below you will find our Exchange Rate and more about our absolute incredible Team. I feel the excitement in my Bones to co-create with these magnificent Women.
 
-![](/uploads/herbal-immersion-1.png)
+![](/uploads/herbal-immersion-2.png)
 
 PLEASE NOTE:
 
