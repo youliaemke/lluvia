@@ -21,19 +21,35 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
+&nbsp;
+
 **Hallo, liebe Freunde der Magie und des Wunders!**
 
-Seid ihr bereit, euch auf eine Reise in die zauberhafte Welt der Kräuter und der Schwesternschaft zu begeben? Wenn ja, dann habe ich eine Einladung, die eure Sinne entzünden und eure Seele nähren wird.
+Seid ihr bereit für eine Reise in die magische Welt der Kräuter und der Schwesternschaft? Dann habe ich eine Einladung für euch, die eure Sinne beflügeln und eure Seele nähren wird.
 
-Stell dir vor: Inmitten von flüsternden Bäumen, duftenden Wiesen und Hügeln liegt eine Oase der Ruhe, ein Heiligtum, in dem die uralte Weisheit der Kräuter dich einlädt, ihre Tiefen zu erkunden. Willkommen zu unserem Herbal Immersion Retreat, wo die Gaben der Natur zu unserem Guide und Heiler werden.
+Stellt euch vor: Inmitten flüsternder Bäume, duftender Wiesen und Hügel liegt eine Oase der Ruhe, ein Heiligtum, in dem die uralte Weisheit der Kräuter dazu einlädt, ihre Tiefen zu erforschen.
+
+Willkommen zu unserem Herbal-Immersions-Retreat, wo die Gaben der Natur zu unseren Führern und Heilern werden.
+
+Klickt hier für einen Blick aus der Vogelperspektive:
+
+[https://www.youtube.com/watch?v=iCzQy\_jnKWo](https://www.youtube.com/watch?v=iCzQy_jnKWo "Iachusol Enaid Tour")
+
+Begleiten Sie uns auf ein Abenteuer, das die Seele berührt, während wir unter der sanften Anleitung erfahrener Kräuterkundiger und weiser Hüter der Erde Tinkturen herstellen, Kräuter sammeln und kraftvolle Rituale durchführen. Gemeinsam tauchen wir ein in die Geheimnisse der Pflanzenwelt und entschlüsseln die Magie, die in jedem Blatt, jeder Blüte und jeder Wurzel verborgen liegt.
+
+Von Sonnenaufgang bis Sonnenuntergang tauchen wir in die Kunst der Kräuteralchemie ein und stellen Tinkturen und Salben her, die von den heilenden Energien der Erde durchdrungen sind. Durch praktische Workshops, Erfahrungslernen und tägliche Zeremonien werden wir die alten Rituale und heiligen Praktiken entdecken, die uns mit der natürlichen Welt verbinden und unsere angeborene Weisheit erwecken.
+
+Mit 3 Pflanzen Begleiter reisen wir durch die miteinander verbundenen Reiche von Geist, Seele und Körper. In diesem harmonischen Dreiklang bietet jede dieser Pflanzen ihre einzigartige Essenz an, um unsere Reise zu leiten.
+
+✨ Beifuß (Geist): Mugwort ist als „Traumweber“ bekannt und wird uns in Trommel- und Traumsitzungen anleiten, um unsere Intuition zu stärken und Wege zum Unterbewusstsein zu öffnen.
+
+✨Rosmarin (Geist): Rosmarin unterstützt uns dabei, uns zu erinnern und uns mit unserer Vision zu verbinden, und reinigt den Geist und die Seele von stagnierenden Gedanken und Energien.
+
+✨Rose (Körper): Rose verkörpert die Essenz der Liebe und des Mitgefühls. Sie lädt ein tiefes Gefühl von Frieden und Harmonie in unser physisches Wesen ein und erlaubt uns, uns tief mit uns selbst und anderen zu verbinden.
 
 &nbsp;
 
 ![Medicine Wheel Garden](/uploads/mandala-2022-1.jpeg)![](/uploads/iachusol-enaid-towards-valley-1.jpg)![](/uploads/tree-in-corner-of-valley-2.jpg)
-
-Begleite uns auf ein seelenberührendes Abenteuer voller Trankherstellung, Kräuterernte und mystischer Rituale unter der sanften Anleitung erfahrener Kräuterkundiger und weiser Erdwächter. Gemeinsam werden wir in die Geheimnisse des Pflanzenreichs eintauchen und die mächtige Magie, die in jedem Blatt, jeder Blüte und jeder Wurzel verborgen ist, entschlüsseln.
-
-Von der Morgendämmerung bis zur Abenddämmerung tauchen wir in die Kunst der Kräuteralchemie ein und stellen Tränke und Salben her, die von den heilenden Energien der Erde durchdrungen sind. Durch praktische Workshops, Erfahrungslernen und tägliche Zeremonien wirst du die uralten Rituale und heiligen Praktiken entdecken, die uns mit der natürlichen Welt verbinden und unsere angeborene Weisheit erwecken.
 
 Aber unsere Reise ist noch nicht zu Ende. Inmitten der ruhigen Schönheit unserer Umgebung versammeln wir uns um das Feuer, um Geschichten, Lieder und Lachen zu teilen und Verbindungen zu knüpfen, die über Zeit und Raum hinausgehen. Während die Sterne über uns funkeln, ehren wir die Ahnen und Geister, die neben uns wandeln, und weben einen Teppich der Verbundenheit und Zugehörigkeit.
 
