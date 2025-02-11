@@ -27,6 +27,8 @@ _comments:
 
 Seid ihr bereit für eine Reise in die magische Welt der Kräuter und der Schwesternschaft? Dann habe ich eine Einladung für euch, die eure Sinne beflügeln und eure Seele nähren wird.
 
+![](/uploads/2.png)
+
 Stellt euch vor: Inmitten flüsternder Bäume, duftender Wiesen und Hügel liegt eine Oase der Ruhe, ein Heiligtum, in dem die uralte Weisheit der Kräuter dazu einlädt, ihre Tiefen zu erforschen.
 
 Willkommen zu unserem Herbal-Immersions-Retreat, wo die Gaben der Natur zu unseren Wegweisern und Heilern werden.
