@@ -39,7 +39,15 @@ Join us for a soul-stirring adventure filled with potion-making, herb harvesting
 
 From dawn until dusk, we’ll immerse ourselves in the art of herbal alchemy, crafting potions and salves infused with the healing energies of the earth. Through hands-on workshops and experiential learning and daily Ceremonies you’ll uncover the ancient rituals and sacred practices that connect us to the natural world and awaken our innate wisdom.
 
-But our journey doesn’t end there. Amidst the tranquil beauty of our surroundings, we’ll gather around the fire to share stories, songs, and laughter, forging bonds that transcend time and space. As the stars twinkle overhead, we’ll honor the ancestors and spirits that walk beside us, weaving a tapestry of connection and belonging.
+We will journey with 3 Plant Alleys through the interconnected realms of Spirit, Mind, and Body. In this harmonious triad, each of these Herbs offers its unique essence to guide our journey.
+
+✨**Mugwort (Spirit):** Known as the "Dreamweaver," Mugwort will lead us in drumming and dreaming sessions, enhancing our intuition and opening pathways to the subconscious.
+
+✨**Rosemary (Mind):** Rosemary will support us in remembering and connecting us with our vision, cleansing the mind and spirit from stagnant thoughts.
+
+✨**Rose (Body):** Rose ** ** embodies the essence of love and compassion. She invites a profound sense of peace and harmony into our physical being, allowing us to connect deeply with ourselves and others.
+
+But our journey doesn’t end there. Amidst the tranquil beauty of our surroundings, and the deep dive into the Wisdom of these Herbs, we’ll gather around the fire to share stories, songs, and laughter, forging bonds that transcend time and space. As the stars twinkle overhead, we’ll honor the ancestors and spirits that walk beside us, weaving a tapestry of connection and belonging.
 
 ##### Rustic Comfort Meets Nature’s Symphony
 
@@ -68,6 +76,8 @@ Please feel free to bring your own Snacks, we absolutely welcome this. We would 
 ##### Facts & Facilitator’s
 
 Below you will find our Exchange Rate and more about our absolute incredible Team. I feel the excitement in my Bones to co-create with these magnificent Women.
+
+![](/uploads/herbal-immersion-1.png)
 
 &nbsp;
 
