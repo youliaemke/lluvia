@@ -31,7 +31,7 @@ Picture this: nestled amidst the whispering trees and fragrant meadows and hills
 
 Check out a Birds Eye View here:
 
-[https://www.youtube.com/watch?v=iCzQy\_jnKWo](https://www.youtube.com/watch?v=iCzQy_jnKWo "Iachusol Enaid Tour")
+[https://www.youtube.com/watch?v=iCzQy\_jnKWo](https://www.youtube.com/watch?v=iCzQy_jnKWo "Iachusol Enaid Tour"){: target="_blank" rel="noopener"}
 
 &nbsp;![Herbal Medicine Wheel Garden](/uploads/mandala-2022-1.jpeg)![magical land of lachusol enaid](/uploads/iachusol-enaid-towards-valley-1.jpg)![](/uploads/tree-in-corner-of-valley-2.jpg)
 
