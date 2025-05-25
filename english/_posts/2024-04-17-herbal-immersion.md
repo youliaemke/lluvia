@@ -3,8 +3,13 @@ layout: post
 title: Herbal Immersion
 language: english
 description: >-
-  Here you will find more Detail about our upcoming Herbal Immersion Retreat
-  from 29th August - 1st September in the UK, Wales
+  A soulful UK women’s retreat weaving herbal knowledge, witchy earth wisdom,
+  and deep nature connection.
+
+  Join us for a 4-day immersive journey into plant spirit, ritual, and wild
+  feminine healing. Rooted in ancestral herbalism and sacred ceremony, this
+  retreat invites you to reconnect with the Earth, your intuition, and a circle
+  of like-hearted women. Here you will find more Details about it.
 author: Lluvia
 featured: false
 featured_image: /uploads/whatsapp-image-2025-02-02-at-19-46-21-1.jpeg
