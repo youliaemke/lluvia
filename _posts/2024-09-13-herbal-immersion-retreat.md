@@ -3,8 +3,13 @@ layout: post
 title: Herbal Immersion Retreat
 language: deutsch
 description: >-
-  Hier findest du mehr Informationen über das Herbal Immersion Retreat in
-  September in der UK.
+  Ein seelenvolles Frauen-Retreat in Wales, UK, das Pflanzenwissen, erdige
+  Rituale und tiefe Naturverbindung vereint.
+
+  Begib dich mit uns auf eine 4-tägige Reise in die Welt der Heilpflanzen,
+  Zeremonien und weiblichen Urkraft. Verwurzelt in traditioneller Kräuterkunde
+  und spiritueller Praxis lädt dieses Retreat dich ein, dich mit der Erde,
+  deiner Intuition und einer Gemeinschaft gleichgesinnter Frauen zu verbinden.
 author: Lluvia
 featured: false
 featured_image: /uploads/whatsapp-image-2025-02-02-at-19-46-21.jpeg
