@@ -8,7 +8,7 @@ description: >-
   Herz und Gemeinschaft – durch Pflanzenwissen, Soundbath, freien Tanz, achtsame
   Körperarbeit, Journaling und ein sinnliches, mehrgängiges Kräuter-Dinner.
 author: Lluvia
-featured: true
+featured: false
 featured_image: /uploads/1.png
 seo:
   title: >-
