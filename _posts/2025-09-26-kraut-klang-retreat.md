@@ -79,6 +79,6 @@ Nadine & Julia, gefühlsvolle Kräuterfrauen und leidenschaftliche Köchinnen, �
 
 **⋗** Wir bieten euch auf dem Nisihof gemütliche Einzel- und Mehrbettenzimmer an, diese könnt ihr ebenfalls hier direkt über Eventfrog buchen – first come first serve:-)
 
-![](/uploads/8.png)
+![](/uploads/8.png)![](/uploads/10.png)
 
 **⋗ Julia & Nadine** ♥
