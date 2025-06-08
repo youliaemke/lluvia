@@ -3,11 +3,10 @@ layout: post
 title: Kraut & Klang Retreat
 language: deutsch
 description: >-
-  Eine Bauchmassage oder Gebärmutter Massage ist für mich wie eine sanfte und
-  fürsorgliche Unterhaltung mit einem der am meisten unterschätzten Teile
-  unseres Körpers. Es ist ein ruhiger, wohltuender Dialog zwischen den Händen
-  und der weichen Weite des Bauches, ein Dialog, der in unserem täglichen Leben
-  oft unbemerkt bleibt.
+  Ein kraftvolles Wochenende in der Natur mit Wildkräutern, Klang, Yoga, Somatic
+  Movement und Ritual. Beim Kraut & Klang Retreat verbinden wir uns mit Erde,
+  Herz und Gemeinschaft – durch Pflanzenwissen, Soundbath, freien Tanz, achtsame
+  Körperarbeit, Journaling und ein sinnliches, mehrgängiges Kräuter-Dinner.
 author: Lluvia
 featured: false
 featured_image: /uploads/1.png
