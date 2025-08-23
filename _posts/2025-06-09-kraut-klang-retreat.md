@@ -69,8 +69,6 @@ Nadine & Julia, gefühlsvolle Kräuterfrauen und leidenschaftliche Köchinnen, �
 
 ⋒ **Integration & Austausch** ⋒<br>Gespräche am Feuer helfen dir, das Erlebte zu verankern.
 
-&nbsp;
-
 ⋄⋄⋄⋄ **Der Höhepunkt** ⋄⋄⋄⋄<br>Es erwartet dich ein mehrgängiges Sensual-Wildkräuter-Wurzel-Dinner, bei dem dich pure Aromen, sinnliche Berührungen und verschiedene Klänge auf allen Ebenen verwöhnen.
 
 Die Infrarot Sauna und der Jacuzzi stehen auch für euch zur freien Verfügung bereit.
