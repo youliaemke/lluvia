@@ -98,3 +98,7 @@ Nadine ist Komplementärtherapeutin, Yogatherapeutin, Klangmassagenpraktikerin, 
 Im Kraut & Klang Retreat laden wir dich ein, die Welt der Pflanzen mit allen Sinnen zu erleben. Wir teilen Pflanzenwissen und verbinden es mit beruhigenden Klängen und achtsamen Berührungen, um dich in deine eigene natürliche Weisheit zu führen. Es geht darum, den Körper zu entspannen, die Sinne zu schärfen und das heilende Potenzial der Pflanzen in all ihren Formen zu entdecken.
 
 Unser Retreat ist eine Reise zu deinen Sinnen und eine Rückverbindung zur Weisheit der Pflanzen, eine Auszeit und eine Heimkehr zu dir selbst.
+
+Buche direkt hier:
+
+[https://rainandrosemary.com/kontakt]()
