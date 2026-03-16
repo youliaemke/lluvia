@@ -32,8 +32,8 @@ Der Abend ist kein therapeutischer Raum im klassischen Sinne, sondern eine Einla
 
 Für die Massage bringe ich meine selbst hergestellten Kräuteröle mit. Sie unterstützen die Berührung und wirken über ihre pflanzlichen Eigenschaften zusätzlich auf Körper und Sinne, sodass ein warmer, nährender Raum für diese Praxis entstehen kann.
 
-Sliding Scale: 50 – 95 CHF<br>50 CHF – ermäßigter Beitrag<br>75 CHF – regulärer Beitrag<br>95 CHF – unterstützender Beitrag
+Sliding Scale: 35 – 95 CHF<br>35 CHF – ermäßigter Beitrag<br>65 CHF – regulärer Beitrag<br>95 CHF – unterstützender Beitrag
 
-Der Workshop dauert ca. 2,5 Stunden wir fangen um 18:30 Uhr an.
+Der Workshop dauert ca. 2,5 Stunden wir fangen um 19:00 Uhr an.
 
 Anmelden kannst du dich hier  [https://rainandrosemary.com/kontakt]()
