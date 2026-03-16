@@ -3,11 +3,12 @@ layout: post
 title: HINGABE Workshop
 language: deutsch
 description: >-
-  An diesem Abend erkunden wir den eigenen Körper mit besonderem Fokus auf
-  Unterbauch und Brust. Durch somatische Bewegung und einfache Massagegriffe
-  können Spannung gelöst, die Durchblutung angeregt und neue Körperwahrnehmung
-  entstehen. Die Praxis kann auch emotionale Prozesse berühren. Für die Massage
-  verwende ich meine selbst hergestellten Kräuteröle.
+  Ein somatischer Kreis, in dem wir den eigenen Körper mit besonderem Fokus auf
+  Unterbauch und Brust erkunden. Durch somatische Bewegung und einfache
+  Massagegriffe können Spannungen gelöst, die Durchblutung angeregt und neue
+  Körperwahrnehmung entstehen. Die Praxis kann auch emotionale Prozesse berühren
+  und Raum öffnen, dem eigenen Körper mit mehr Aufmerksamkeit und Feinheit zu
+  begegnen. 
 author: Lluvia
 featured: false
 featured_image: /uploads/whatsapp-image-2022-03-28-at-10-42-13.jpeg
