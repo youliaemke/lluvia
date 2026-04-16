@@ -51,7 +51,7 @@ Regulär 30 - 40 CHF \*
 
 Supporter 45 - 65 CHF \*
 
-Anmelden darfst du dich hier: [https://rainandrosemary.com/kontakt]()
+Anmelden darfst du dich hier: [https://rainandrosemary.com/kontakt](https://rainandrosemary.com/kontakt)
 
 \*(zur Transparenz: bei 6 TN ist bei Zahlung vom Geringverdiener die Miete gedeckt alles darüber ist dann mein Ausgleich, Transport, Materialien etc.)
 
