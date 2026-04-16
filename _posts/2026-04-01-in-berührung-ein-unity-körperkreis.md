@@ -3,11 +3,8 @@ layout: post
 title: in Berührung - ein Unity Körperkreis
 language: deutsch
 description: >-
-  Eine Bauchmassage oder Gebärmutter Massage ist für mich wie eine sanfte und
-  fürsorgliche Unterhaltung mit einem der am meisten unterschätzten Teile
-  unseres Körpers. Es ist ein ruhiger, wohltuender Dialog zwischen den Händen
-  und der weichen Weite des Bauches, ein Dialog, der in unserem täglichen Leben
-  oft unbemerkt bleibt.
+  Komm raus aus dem Kopf, zurück in den Bauch. Spüren statt funktionieren.
+  Somatische Werkzeuge für deinen Alltag.
 author: Lluvia
 featured: false
 featured_image: /uploads/spirale-fluss.jpg
@@ -24,6 +21,10 @@ _comments:
 ---
 **in Berührung – ein Untiy Körperkreis für Bauchraum, Atem und intuitives Spüren**
 
+&nbsp;
+
+![](/uploads/milz-6.png)
+
 An diesem Abend lade ich dich ein, deinen Bauchraum bewusst wahrzunehmen und in Kontakt mit deiner inneren Mitte zu treten. Wir richten unsere Aufmerksamkeit auf Magen und Milz – zwei Zentren, die eng miteinander verbunden sind und auf unterschiedliche Weise unser Wohlbefinden, unsere Verdauung und unsere innere Wahrnehmung beeinflussen.
 
 Der Magen hilft uns, körperlich und emotional zu verdauen: aufnehmen, verarbeiten, loslassen. Die Milz unterstützt unsere Intuition und unsere feine innere Wahrnehmung. Wenn wir diesen Bereich achtsam berühren, bewegen und durch Atem verbinden, entsteht ein Raum, in dem körperliches Spüren und inneres Wissen zusammenfließen.
@@ -35,6 +36,10 @@ Die Praxis an diesem Abend ist ein **Kennenlernen**: wir probieren gemeinsam ein
 Die Rose begleitet uns durch den Abend. Sie bringt Weichheit, öffnet sanft und verbindet Bauchraum und Herz. Sie wird zu einer subtilen Begleiterin, die den Abend trägt und einlädt, sich selbst liebevoll wahrzunehmen.
 
 Dieser Körperkreis ist offen für alle – egal, ob du schon Erfahrung mit Selbstmassage hast oder nicht, egal in welchem Körper du geboren bist, ja Mann oder Frau.
+
+**Wo: SchossRuum, Kellerstr. 22, Luzern**
+
+**Wann: 18.03.2026, 18:30 -21:00**
 
 &nbsp;
 
