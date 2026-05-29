@@ -3,6 +3,9 @@ layout: post
 title: in Berührung - ein Unity Körperkreis
 language: deutsch
 description: >
+  13.06.2026   18:30 - 21:00
+
+
   Komm raus aus dem Kopf, zurück in den Bauch. Spüren statt funktionieren.
   Somatische Werkzeuge für deinen Alltag.
 
@@ -57,7 +60,7 @@ Dieser Körperkreis ist offen für alle – egal, ob du schon Erfahrung mit Selb
 
 **Wo: SchossRuum, Kellerstr. 22, Luzern**
 
-**Wann: 23.05.2026, 18:30 -21:00**
+**Wann: 13.06.2026, 18:30 -21:00**
 
 &nbsp;
 
