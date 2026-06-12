@@ -3,7 +3,7 @@ layout: post
 title: in Berührung - ein Unity Körperkreis
 language: deutsch
 description: >
-  13.06.2026   18:30 - 21:00
+  13.06.2026   18:00 - 21:00
 
 
   Komm raus aus dem Kopf, zurück in den Bauch. Spüren statt funktionieren.
