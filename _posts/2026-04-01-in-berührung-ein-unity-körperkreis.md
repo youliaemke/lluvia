@@ -60,7 +60,7 @@ Dieser Körperkreis ist offen für alle – egal, ob du schon Erfahrung mit Selb
 
 **Wo: SchossRuum, Kellerstr. 22, Luzern**
 
-**Wann: 13.06.2026, 18:30 -21:00**
+**Wann: 13.06.2026, 18:00 -21:00**
 
 &nbsp;
 
